@@ -5,7 +5,6 @@ import com.epam.jdi.light.elements.composite.WebPage;
 import cucmberTests.steps.User;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
-import cucumber.api.testng.AbstractTestNGCucumberTests;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.runner.RunWith;
@@ -19,7 +18,7 @@ import static com.epam.jdi.light.elements.init.UIFactory.*;
     , glue = {"com.epam.jdi.bdd", "cucmberTests"}
     //, tags = {"@form"}
 )
-public class TestRunner extends AbstractTestNGCucumberTests {
+public class TestRunner {
     @BeforeClass
     public static void setUp() {
         WebPage.openUrl("https://jdi-testing.github.io/jdi-light/");
