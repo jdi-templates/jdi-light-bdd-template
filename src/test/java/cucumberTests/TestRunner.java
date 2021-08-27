@@ -1,8 +1,8 @@
-package cucmberTests;
+package cucumberTests;
 
 import com.epam.jdi.light.elements.composite.Form;
 import com.epam.jdi.light.elements.composite.WebPage;
-import cucmberTests.steps.User;
+import cucumberTests.steps.User;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 import org.junit.AfterClass;
@@ -15,7 +15,7 @@ import static com.epam.jdi.light.elements.init.UIFactory.*;
 @RunWith(Cucumber.class)
 @CucumberOptions(
     features = "classpath:features"
-    , glue = {"com.epam.jdi.bdd", "cucmberTests"}
+    , glue = {"com.epam.jdi.bdd", "cucumberTests"}
     //, tags = {"@form"}
 )
 public class TestRunner {
