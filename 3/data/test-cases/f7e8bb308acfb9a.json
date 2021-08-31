@@ -1,0 +1,579 @@
+{
+  "uid" : "f7e8bb308acfb9a",
+  "name" : "fill Contact Form from json",
+  "fullName" : "Form: fill Contact Form from json",
+  "historyId" : "622fbdfad8ee15fff16073de6e0d7311",
+  "time" : {
+    "start" : 1630408982835,
+    "stop" : 1630408996291,
+    "duration" : 13456
+  },
+  "status" : "broken",
+  "statusMessage" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+  "statusTrace" : "java.lang.RuntimeException: \nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'\n\tat com.epam.jdi.light.common.Exceptions.exception(Exceptions.java:16)\n\tat com.epam.jdi.light.actions.ActionProcessor.debugAround(ActionProcessor.java:73)\n\tat com.epam.jdi.light.elements.composite.Form.fill(Form.java:98)\n\tat com.epam.jdi.bdd.stepdefs.FormSteps.fillForm(FormSteps.java:51)\n\tat ✽.When I fill form \"Contact Form\" with \"Roman Contacts\"(features/Form.feature:8)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+    "statusTrace" : "java.lang.RuntimeException: \nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'\n\tat com.epam.jdi.light.common.Exceptions.exception(Exceptions.java:16)\n\tat com.epam.jdi.light.actions.ActionProcessor.debugAround(ActionProcessor.java:73)\n\tat com.epam.jdi.light.elements.composite.Form.fill(Form.java:98)\n\tat com.epam.jdi.bdd.stepdefs.FormSteps.fillForm(FormSteps.java:51)\n\tat ✽.When I fill form \"Contact Form\" with \"Roman Contacts\"(features/Form.feature:8)\n",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Contacts Page\" page",
+      "time" : {
+        "start" : 1630408982838,
+        "stop" : 1630408983517,
+        "duration" : 679
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+        "time" : {
+          "start" : 1630408983086,
+          "stop" : 1630408983512,
+          "duration" : 426
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+          "time" : {
+            "start" : 1630408983094,
+            "stop" : 1630408983512,
+            "duration" : 418
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html)",
+            "time" : {
+              "start" : 1630408983120,
+              "stop" : 1630408983500,
+              "duration" : 380
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          }, {
+            "name" : "Check that '' is opened (url CONTAINS '/contacts.html'; title NONE '')",
+            "time" : {
+              "start" : 1630408983501,
+              "stop" : 1630408983512,
+              "duration" : 11
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "474d865633b0e6c0",
+          "name" : "Details",
+          "source" : "474d865633b0e6c0.html",
+          "type" : "text/plain",
+          "size" : 132
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  I fill form \"Contact Form\" with \"Roman Contacts\"",
+      "time" : {
+        "start" : 1630408983518
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Input 'JDI - awesome UI automation tool' in 'Description'",
+        "time" : {
+          "start" : 1630408983589,
+          "stop" : 1630408984070,
+          "duration" : 481
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input 'JDI - awesome UI automation tool' in 'Description'",
+          "time" : {
+            "start" : 1630408983603,
+            "stop" : 1630408984069,
+            "duration" : 466
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "ceb04d971b354552",
+          "name" : "Details",
+          "source" : "ceb04d971b354552.html",
+          "type" : "text/plain",
+          "size" : 54
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Input 'ChiefQA' in 'Position'",
+        "time" : {
+          "start" : 1630408984077,
+          "stop" : 1630408984491,
+          "duration" : 414
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input 'ChiefQA' in 'Position'",
+          "time" : {
+            "start" : 1630408984086,
+            "stop" : 1630408984491,
+            "duration" : 405
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "5669b539861cfe33",
+          "name" : "Details",
+          "source" : "5669b539861cfe33.html",
+          "type" : "text/plain",
+          "size" : 48
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Input '654321' in 'Passport Number'",
+        "time" : {
+          "start" : 1630408984497,
+          "stop" : 1630408984894,
+          "duration" : 397
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input '654321' in 'Passport Number'",
+          "time" : {
+            "start" : 1630408984508,
+            "stop" : 1630408984894,
+            "duration" : 386
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "4a25dd26cf196c6d",
+          "name" : "Details",
+          "source" : "4a25dd26cf196c6d.html",
+          "type" : "text/plain",
+          "size" : 62
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Input 'Other' in 'Religion'",
+        "time" : {
+          "start" : 1630408984897,
+          "stop" : 1630408985250,
+          "duration" : 353
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input 'Other' in 'Religion'",
+          "time" : {
+            "start" : 1630408984907,
+            "stop" : 1630408985250,
+            "duration" : 343
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "6537893eafb86163",
+          "name" : "Details",
+          "source" : "6537893eafb86163.html",
+          "type" : "text/plain",
+          "size" : 48
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Input '1234' in 'Passport Seria'",
+        "time" : {
+          "start" : 1630408985253,
+          "stop" : 1630408985553,
+          "duration" : 300
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input '1234' in 'Passport Seria'",
+          "time" : {
+            "start" : 1630408985270,
+            "stop" : 1630408985553,
+            "duration" : 283
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "4f3f68d158dd226c",
+          "name" : "Details",
+          "source" : "4f3f68d158dd226c.html",
+          "type" : "text/plain",
+          "size" : 60
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Input 'Female' in 'Gender'",
+        "time" : {
+          "start" : 1630408985555,
+          "stop" : 1630408996289,
+          "duration" : 10734
+        },
+        "status" : "failed",
+        "steps" : [ {
+          "name" : "Input 'Female' in 'Gender'",
+          "time" : {
+            "start" : 1630408985567,
+            "stop" : 1630408985737,
+            "duration" : 170
+          },
+          "status" : "unknown",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Show",
+          "time" : {
+            "start" : 1630408995594,
+            "stop" : 1630408995861,
+            "duration" : 267
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that 'Gender' is visible by user",
+            "time" : {
+              "start" : 1630408995688,
+              "stop" : 1630408995861,
+              "duration" : 173
+            },
+            "status" : "passed",
+            "steps" : [ {
+              "name" : "Check that 'Gender' is hidden",
+              "time" : {
+                "start" : 1630408995691,
+                "stop" : 1630408995779,
+                "duration" : 88
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ {
+                "uid" : "fb8bf0664bf464d7",
+                "name" : "Actual result",
+                "source" : "fb8bf0664bf464d7.html",
+                "type" : "text/plain",
+                "size" : 5
+              } ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 1,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ {
+              "uid" : "f4349b6ff2a7bb2e",
+              "name" : "Actual result",
+              "source" : "f4349b6ff2a7bb2e.html",
+              "type" : "text/plain",
+              "size" : 4
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 2,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 2,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "Failure details",
+          "time" : {
+            "start" : 1630408996273,
+            "stop" : 1630408996273,
+            "duration" : 0
+          },
+          "status" : "unknown",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e41a0308f97150d6",
+            "name" : "Screenshot",
+            "source" : "e41a0308f97150d6.png",
+            "type" : "image/png",
+            "size" : 67325
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "d471188ac2c13d7c",
+          "name" : "Details",
+          "source" : "d471188ac2c13d7c.html",
+          "type" : "text/plain",
+          "size" : 44
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 5,
+        "attachmentsCount" : 4,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 16,
+      "attachmentsCount" : 9,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "And  click on \"Submit Button\"",
+      "time" : {
+        "start" : 1630408996290,
+        "stop" : 1630408996290,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  the form \"Contact Form\" data equals to \"Roman Contacts\"",
+      "time" : {
+        "start" : 1630408996291,
+        "stop" : 1630408996291,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 24,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Form"
+  }, {
+    "name" : "story",
+    "value" : "fill Contact Form from json"
+  }, {
+    "name" : "tag",
+    "value" : "form"
+  }, {
+    "name" : "host",
+    "value" : "fv-az281-178"
+  }, {
+    "name" : "thread",
+    "value" : "4350@fv-az281-178.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "Form"
+  }, {
+    "name" : "suite",
+    "value" : "Form"
+  }, {
+    "name" : "testClass",
+    "value" : "fill Contact Form from json"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "5b888a475fb8b0fb",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5b888a475fb8b0fb",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630408510023,
+          "stop" : 1630408523668,
+          "duration" : 13645
+        }
+      }, {
+        "uid" : "a3387584c4f2c5a3",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/a3387584c4f2c5a3",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630408036009,
+          "stop" : 1630408049275,
+          "duration" : 13266
+        }
+      }, {
+        "uid" : "3e22aad6dd1cae4a",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/3e22aad6dd1cae4a",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630407562923,
+          "stop" : 1630407576702,
+          "duration" : 13779
+        }
+      }, {
+        "uid" : "638f16ac8fbb4a48",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/638f16ac8fbb4a48",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630407082900,
+          "stop" : 1630407097006,
+          "duration" : 14106
+        }
+      }, {
+        "uid" : "c33e10fcf35a13aa",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c33e10fcf35a13aa",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630406611647,
+          "stop" : 1630406624928,
+          "duration" : 13281
+        }
+      }, {
+        "uid" : "f1c3896cfceda12a",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/f1c3896cfceda12a",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630406153117,
+          "stop" : 1630406166581,
+          "duration" : 13464
+        }
+      }, {
+        "uid" : "187fada3b09661a6",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/187fada3b09661a6",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+        "time" : {
+          "start" : 1630405688372,
+          "stop" : 1630405702035,
+          "duration" : 13663
+        }
+      } ]
+    },
+    "tags" : [ "form" ]
+  },
+  "source" : "f7e8bb308acfb9a.json",
+  "parameterValues" : [ ]
+}

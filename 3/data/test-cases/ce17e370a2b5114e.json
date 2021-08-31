@@ -1,0 +1,339 @@
+{
+  "uid" : "ce17e370a2b5114e",
+  "name" : "fill Contact Form from table",
+  "fullName" : "Form: fill Contact Form from table",
+  "historyId" : "a8be205529fee148d64ebf8c219ea0cd",
+  "time" : {
+    "start" : 1630408996367,
+    "stop" : 1630409007131,
+    "duration" : 10764
+  },
+  "status" : "broken",
+  "statusMessage" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+  "statusTrace" : "java.lang.RuntimeException: \nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'\n\tat com.epam.jdi.light.common.Exceptions.exception(Exceptions.java:16)\n\tat com.epam.jdi.light.actions.ActionProcessor.debugAround(ActionProcessor.java:73)\n\tat com.epam.jdi.light.elements.composite.Form.fill(Form.java:98)\n\tat com.epam.jdi.bdd.stepdefs.FormSteps.fillForm(FormSteps.java:46)\n\tat ✽.When I fill form \"Contact Form\" with data:(features/Form.feature:13)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+    "statusTrace" : "java.lang.RuntimeException: \nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'\n\tat com.epam.jdi.light.common.Exceptions.exception(Exceptions.java:16)\n\tat com.epam.jdi.light.actions.ActionProcessor.debugAround(ActionProcessor.java:73)\n\tat com.epam.jdi.light.elements.composite.Form.fill(Form.java:98)\n\tat com.epam.jdi.bdd.stepdefs.FormSteps.fillForm(FormSteps.java:46)\n\tat ✽.When I fill form \"Contact Form\" with data:(features/Form.feature:13)\n",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Contacts Page\" page",
+      "time" : {
+        "start" : 1630408996367,
+        "stop" : 1630408996379,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+        "time" : {
+          "start" : 1630408996368,
+          "stop" : 1630408996379,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+          "time" : {
+            "start" : 1630408996373,
+            "stop" : 1630408996379,
+            "duration" : 6
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "8b7441c59fd598e5",
+          "name" : "Details",
+          "source" : "8b7441c59fd598e5.html",
+          "type" : "text/plain",
+          "size" : 132
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  I fill form \"Contact Form\" with data:",
+      "time" : {
+        "start" : 1630408996379
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Input 'Roman' in 'Name'",
+        "time" : {
+          "start" : 1630408996387,
+          "stop" : 1630409007130,
+          "duration" : 10743
+        },
+        "status" : "failed",
+        "steps" : [ {
+          "name" : "Input 'Roman' in 'Name'",
+          "time" : {
+            "start" : 1630408996393,
+            "stop" : 1630408996529,
+            "duration" : 136
+          },
+          "status" : "unknown",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Show",
+          "time" : {
+            "start" : 1630409006632,
+            "stop" : 1630409006725,
+            "duration" : 93
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Failure details",
+          "time" : {
+            "start" : 1630409007110,
+            "stop" : 1630409007110,
+            "duration" : 0
+          },
+          "status" : "unknown",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "2b66a5a6c0bcc4e",
+            "name" : "Screenshot",
+            "source" : "2b66a5a6c0bcc4e.png",
+            "type" : "image/png",
+            "size" : 67325
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "fedb2016b1dd8f91",
+          "name" : "Details",
+          "source" : "fedb2016b1dd8f91.html",
+          "type" : "text/plain",
+          "size" : 40
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "2548c809f62acfb5",
+        "name" : "Data table",
+        "source" : "2548c809f62acfb5.csv",
+        "type" : "text/tab-separated-values",
+        "size" : 162
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "And  click on \"Submit Button\"",
+      "time" : {
+        "start" : 1630409007130,
+        "stop" : 1630409007130,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  the form \"Contact Form\" data equals to:",
+      "time" : {
+        "start" : 1630409007130,
+        "stop" : 1630409007131,
+        "duration" : 1
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2c953ffbcb2ce7c6",
+        "name" : "Data table",
+        "source" : "2c953ffbcb2ce7c6.csv",
+        "type" : "text/tab-separated-values",
+        "size" : 162
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Form"
+  }, {
+    "name" : "story",
+    "value" : "fill Contact Form from table"
+  }, {
+    "name" : "tag",
+    "value" : "form"
+  }, {
+    "name" : "host",
+    "value" : "fv-az281-178"
+  }, {
+    "name" : "thread",
+    "value" : "4350@fv-az281-178.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "Form"
+  }, {
+    "name" : "suite",
+    "value" : "Form"
+  }, {
+    "name" : "testClass",
+    "value" : "fill Contact Form from table"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "2bdb0eedae854637",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/2bdb0eedae854637",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630408523760,
+          "stop" : 1630408534432,
+          "duration" : 10672
+        }
+      }, {
+        "uid" : "28ee039764a06361",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/28ee039764a06361",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630408049349,
+          "stop" : 1630408060136,
+          "duration" : 10787
+        }
+      }, {
+        "uid" : "5db3a0bf7c9fd3e9",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5db3a0bf7c9fd3e9",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630407576798,
+          "stop" : 1630407587508,
+          "duration" : 10710
+        }
+      }, {
+        "uid" : "ae838f161c24f7b0",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ae838f161c24f7b0",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630407097109,
+          "stop" : 1630407107871,
+          "duration" : 10762
+        }
+      }, {
+        "uid" : "ebaf5e92d359047c",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ebaf5e92d359047c",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630406625018,
+          "stop" : 1630406635791,
+          "duration" : 10773
+        }
+      }, {
+        "uid" : "960450cddc44a4ec",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/960450cddc44a4ec",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630406166652,
+          "stop" : 1630406177430,
+          "duration" : 10778
+        }
+      }, {
+        "uid" : "df2e2b9ceb9d0a08",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/df2e2b9ceb9d0a08",
+        "status" : "broken",
+        "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+        "time" : {
+          "start" : 1630405702110,
+          "stop" : 1630405712840,
+          "duration" : 10730
+        }
+      } ]
+    },
+    "tags" : [ "form" ]
+  },
+  "source" : "ce17e370a2b5114e.json",
+  "parameterValues" : [ ]
+}

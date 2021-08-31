@@ -1,0 +1,335 @@
+{
+  "uid" : "e3f4da6b69d187e5",
+  "name" : "click element",
+  "fullName" : "TestsWithLocators: click element",
+  "historyId" : "950bac3cf7c9d4d4eb7b600f09c2d144",
+  "time" : {
+    "start" : 1630409008294,
+    "stop" : 1630409009088,
+    "duration" : 794
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Page with url \"https://jdi-testing.github.io/jdi-light/html5.html\" openned",
+      "time" : {
+        "start" : 1630409008294,
+        "stop" : 1630409008511,
+        "duration" : 217
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630409008295,
+          "stop" : 1630409008511,
+          "duration" : 216
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630409008299,
+            "stop" : 1630409008511,
+            "duration" : 212
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "2eb494eaeae8cc12",
+          "name" : "Details",
+          "source" : "2eb494eaeae8cc12.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  I click on \"[value*='Red Button']\"",
+      "time" : {
+        "start" : 1630409008512,
+        "stop" : 1630409009002,
+        "duration" : 490
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Click on '[value*='Red Button']'",
+        "time" : {
+          "start" : 1630409008513,
+          "stop" : 1630409009002,
+          "duration" : 489
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Click on '[value*='Red Button']'",
+          "time" : {
+            "start" : 1630409008519,
+            "stop" : 1630409009002,
+            "duration" : 483
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that '[value*='Red Button']' is disabled",
+            "time" : {
+              "start" : 1630409008522,
+              "stop" : 1630409008863,
+              "duration" : 341
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "36d9f99ea08bd0b6",
+              "name" : "Actual result",
+              "source" : "36d9f99ea08bd0b6.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "178e006520394d39",
+          "name" : "Details",
+          "source" : "178e006520394d39.html",
+          "type" : "text/plain",
+          "size" : 51
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the Alert text equals to \"Red button\"",
+      "time" : {
+        "start" : 1630409009003,
+        "stop" : 1630409009088,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Validate And Accept Alert(is \"Red button\")",
+        "time" : {
+          "start" : 1630409009010,
+          "stop" : 1630409009084,
+          "duration" : 74
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Get Alert Text",
+          "time" : {
+            "start" : 1630409009020,
+            "stop" : 1630409009050,
+            "duration" : 30
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "5e70fb01bf981630",
+            "name" : "Actual result",
+            "source" : "5e70fb01bf981630.html",
+            "type" : "text/plain",
+            "size" : 10
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "Accept Alert",
+          "time" : {
+            "start" : 1630409009051,
+            "stop" : 1630409009084,
+            "duration" : 33
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "click element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az281-178"
+  }, {
+    "name" : "thread",
+    "value" : "4350@fv-az281-178.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "click element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "4cb47db2d74168e8",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/4cb47db2d74168e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630408535868,
+          "stop" : 1630408536633,
+          "duration" : 765
+        }
+      }, {
+        "uid" : "6ad4b065cb5b49e6",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/6ad4b065cb5b49e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630408061666,
+          "stop" : 1630408062461,
+          "duration" : 795
+        }
+      }, {
+        "uid" : "bb8e4ad00e2bd02f",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/bb8e4ad00e2bd02f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630407588771,
+          "stop" : 1630407589508,
+          "duration" : 737
+        }
+      }, {
+        "uid" : "5017530fa81df416",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5017530fa81df416",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630407109283,
+          "stop" : 1630407110190,
+          "duration" : 907
+        }
+      }, {
+        "uid" : "b234014065b3dd60",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b234014065b3dd60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406636986,
+          "stop" : 1630406637770,
+          "duration" : 784
+        }
+      }, {
+        "uid" : "b7adef4cdd2704ea",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b7adef4cdd2704ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406178743,
+          "stop" : 1630406179531,
+          "duration" : 788
+        }
+      }, {
+        "uid" : "efa8a2f4a4764d4f",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/efa8a2f4a4764d4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405714209,
+          "stop" : 1630405714997,
+          "duration" : 788
+        }
+      } ]
+    },
+    "tags" : [ "locators" ]
+  },
+  "source" : "e3f4da6b69d187e5.json",
+  "parameterValues" : [ ]
+}
