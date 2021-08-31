@@ -6,13 +6,13 @@
       "name" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
       "children" : [ {
         "name" : "fill Contact Form from json",
-        "uid" : "3e22aad6dd1cae4a",
+        "uid" : "a3387584c4f2c5a3",
         "parentUid" : "91ac9afca0df3072680de9dbfc5cb1cf",
         "status" : "broken",
         "time" : {
-          "start" : 1630407562923,
-          "stop" : 1630407576702,
-          "duration" : 13779
+          "start" : 1630408036009,
+          "stop" : 1630408049275,
+          "duration" : 13266
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
       "children" : [ {
         "name" : "fill Contact Form from table",
-        "uid" : "5db3a0bf7c9fd3e9",
+        "uid" : "28ee039764a06361",
         "parentUid" : "728cb595dab0a10e839cea9b5d82d6d8",
         "status" : "broken",
         "time" : {
-          "start" : 1630407576798,
-          "stop" : 1630407587508,
-          "duration" : 10710
+          "start" : 1630408049349,
+          "stop" : 1630408060136,
+          "duration" : 10787
         },
         "flaky" : false,
         "newFailed" : false,
@@ -37,417 +37,417 @@
       } ],
       "uid" : "728cb595dab0a10e839cea9b5d82d6d8"
     }, {
-      "name" : "[00:01.665] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[07:54.963] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "labelText",
-        "uid" : "6ef6340902d40f78",
-        "parentUid" : "599c11c6be2a6c6309648ea78f8a95c5",
+        "uid" : "9fbcb1ce8a606407",
+        "parentUid" : "b238c2832313bee071aaf124ce4738d3",
         "status" : "broken",
         "time" : {
-          "start" : 1630407590727,
-          "stop" : 1630407601668,
-          "duration" : 10941
+          "start" : 1630408063767,
+          "stop" : 1630408074969,
+          "duration" : 11202
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "599c11c6be2a6c6309648ea78f8a95c5"
+      "uid" : "b238c2832313bee071aaf124ce4738d3"
     }, {
-      "name" : "[00:12.674] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[08:05.663] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "input element",
-        "uid" : "c16e34fddfec0884",
-        "parentUid" : "a00dc21fff733d6182f796065157a5f8",
+        "uid" : "44652611ca3d6afb",
+        "parentUid" : "7c5e8198f07b54d5323752758a247e2b",
         "status" : "broken",
         "time" : {
-          "start" : 1630407601670,
-          "stop" : 1630407612676,
-          "duration" : 11006
+          "start" : 1630408074970,
+          "stop" : 1630408085666,
+          "duration" : 10696
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a00dc21fff733d6182f796065157a5f8"
+      "uid" : "7c5e8198f07b54d5323752758a247e2b"
     }, {
-      "name" : "[00:24.975] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[08:18.117] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "clear element",
-        "uid" : "2073509430db1821",
-        "parentUid" : "c14f6303f6d4e07dfd933896c877d36e",
+        "uid" : "61de11520c805eb",
+        "parentUid" : "f336e04db5597333d4521d339b581bd7",
         "status" : "broken",
         "time" : {
-          "start" : 1630407614233,
-          "stop" : 1630407624978,
-          "duration" : 10745
+          "start" : 1630408087181,
+          "stop" : 1630408098120,
+          "duration" : 10939
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "c14f6303f6d4e07dfd933896c877d36e"
+      "uid" : "f336e04db5597333d4521d339b581bd7"
     }, {
-      "name" : "[00:57.248] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[08:50.463] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "getValue element",
-        "uid" : "4a8357a127b2f15b",
-        "parentUid" : "99afed70a7d01d4a080b5997d661af2e",
+        "uid" : "a8079abe05afd633",
+        "parentUid" : "97c633c7939ea69517ab67c1f8ee899e",
         "status" : "broken",
         "time" : {
-          "start" : 1630407646494,
-          "stop" : 1630407657260,
-          "duration" : 10766
+          "start" : 1630408119585,
+          "stop" : 1630408130467,
+          "duration" : 10882
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "99afed70a7d01d4a080b5997d661af2e"
+      "uid" : "97c633c7939ea69517ab67c1f8ee899e"
     }, {
-      "name" : "[01:30.751] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[09:24.69] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "setText element",
-        "uid" : "13ca8dcb05d3abf5",
-        "parentUid" : "2cf52a4c2fed9c14e94042ca4f0121b7",
+        "uid" : "29fb737893d21cd5",
+        "parentUid" : "492dcb784e8bc0b6946fc080d1c317fa",
         "status" : "broken",
         "time" : {
-          "start" : 1630407680088,
-          "stop" : 1630407690755,
-          "duration" : 10667
+          "start" : 1630408153199,
+          "stop" : 1630408164078,
+          "duration" : 10879
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "2cf52a4c2fed9c14e94042ca4f0121b7"
+      "uid" : "492dcb784e8bc0b6946fc080d1c317fa"
     }, {
-      "name" : "[01:42.983] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[09:36.336] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "labelText",
-        "uid" : "7500811b9bfb0010",
-        "parentUid" : "7cc03e2e9a2c3af518e346b77880445c",
+        "uid" : "8a726d1efc36e36b",
+        "parentUid" : "b5004ce7209e19727609b7634f383abf",
         "status" : "broken",
         "time" : {
-          "start" : 1630407692105,
-          "stop" : 1630407702985,
-          "duration" : 10880
+          "start" : 1630408165438,
+          "stop" : 1630408176339,
+          "duration" : 10901
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "7cc03e2e9a2c3af518e346b77880445c"
+      "uid" : "b5004ce7209e19727609b7634f383abf"
     }, {
-      "name" : "[01:53.648] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "name" : "[09:46.903] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
       "children" : [ {
         "name" : "input element",
-        "uid" : "b90ab7f34489e78b",
-        "parentUid" : "96e654815ce2793a38972ef48f7b674b",
+        "uid" : "20a3b3d522991d19",
+        "parentUid" : "e7596be6557c62b2463690d1715fb893",
         "status" : "broken",
         "time" : {
-          "start" : 1630407702986,
-          "stop" : 1630407713650,
-          "duration" : 10664
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "96e654815ce2793a38972ef48f7b674b"
-    }, {
-      "name" : "[02:05.632] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "clear element",
-        "uid" : "42160c110339d835",
-        "parentUid" : "63a5d177a3c4a3742fc6d72b59941224",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407714860,
-          "stop" : 1630407725636,
-          "duration" : 10776
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "63a5d177a3c4a3742fc6d72b59941224"
-    }, {
-      "name" : "[02:37.430] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "getValue element",
-        "uid" : "3e9e5530e409e578",
-        "parentUid" : "b286207aa5665a3757070542f55ed1ad",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407746660,
-          "stop" : 1630407757436,
-          "duration" : 10776
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "b286207aa5665a3757070542f55ed1ad"
-    }, {
-      "name" : "[03:09.506] Failed to execute 'UIElement.input' for element '#name[placeholder='Input name']' during '10' seconds.    \nCan't find Element '#name[placeholder='Input name'] (css='#name[placeholder='Input name']')' during 10 seconds",
-      "children" : [ {
-        "name" : "setText element",
-        "uid" : "f12202f21021d0c2",
-        "parentUid" : "62ba1eca92e9f4e2fce343a193450cc2",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407779028,
-          "stop" : 1630407789509,
-          "duration" : 10481
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "62ba1eca92e9f4e2fce343a193450cc2"
-    }, {
-      "name" : "[03:21.867] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "labelText",
-        "uid" : "b979d0c15808ee37",
-        "parentUid" : "3c9f63ff21db959aab773e1df6ba0f53",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407790880,
-          "stop" : 1630407801869,
-          "duration" : 10989
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "3c9f63ff21db959aab773e1df6ba0f53"
-    }, {
-      "name" : "[03:32.557] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "input element",
-        "uid" : "b8946098ec96d42c",
-        "parentUid" : "22e942f6ad1296fd2bdd64871a1d7d12",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407801870,
-          "stop" : 1630407812559,
-          "duration" : 10689
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "22e942f6ad1296fd2bdd64871a1d7d12"
-    }, {
-      "name" : "[03:45.216] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "clear element",
-        "uid" : "c55a373fd692dadd",
-        "parentUid" : "7f0d023c42fe26389961d87d789c97ac",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407814414,
-          "stop" : 1630407825219,
-          "duration" : 10805
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "7f0d023c42fe26389961d87d789c97ac"
-    }, {
-      "name" : "[04:17.48] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "getValue element",
-        "uid" : "2567f21d11957fd9",
-        "parentUid" : "4ed234147ab5d2be09bb9a7870856c48",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407846437,
-          "stop" : 1630407857050,
-          "duration" : 10613
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "4ed234147ab5d2be09bb9a7870856c48"
-    }, {
-      "name" : "[04:49.298] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
-      "children" : [ {
-        "name" : "setText element",
-        "uid" : "95fb486f47092ff2",
-        "parentUid" : "67530fb54f98c5c5fec8019140a008ce",
-        "status" : "broken",
-        "time" : {
-          "start" : 1630407878683,
-          "stop" : 1630407889301,
-          "duration" : 10618
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "67530fb54f98c5c5fec8019140a008ce"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  }, {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "[00:35.721] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 00:35.110 Expected: is \"14px\"\n     but: was \"15px\"",
-      "children" : [ {
-        "name" : "css element",
-        "uid" : "301b5470fe8fc724",
-        "parentUid" : "94ecef434a8b4626c636a7b47836099c",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407624980,
-          "stop" : 1630407635723,
-          "duration" : 10743
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "94ecef434a8b4626c636a7b47836099c"
-    }, {
-      "name" : "[00:46.480] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 00:45.875 Expected: is \"Input name\"\n     but: was \"\"",
-      "children" : [ {
-        "name" : "placeholder element",
-        "uid" : "505d3ba0ba9c01ce",
-        "parentUid" : "76db330c62f71c2586440d12d517ba51",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407635725,
-          "stop" : 1630407646492,
-          "duration" : 10767
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "76db330c62f71c2586440d12d517ba51"
-    }, {
-      "name" : "[01:20.82] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 01:19.477 Expected: is \"displayed\"\n     but: was \"hidden\"",
-      "children" : [ {
-        "name" : "isDisplayed element",
-        "uid" : "4601422835bd9fbf",
-        "parentUid" : "c2d101428ea0228c1a13e2d9d9c8ce51",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407669252,
-          "stop" : 1630407680084,
-          "duration" : 10832
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "c2d101428ea0228c1a13e2d9d9c8ce51"
-    }, {
-      "name" : "[02:16.156] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 02:15.557 Expected: is \"14px\"\n     but: was \"15px\"",
-      "children" : [ {
-        "name" : "css element",
-        "uid" : "d8708997c68d4711",
-        "parentUid" : "ba5f1c3547eb6edf4411c4f1a681fd2e",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407725637,
-          "stop" : 1630407736159,
-          "duration" : 10522
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "ba5f1c3547eb6edf4411c4f1a681fd2e"
-    }, {
-      "name" : "[02:26.657] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 02:26.042 Expected: is \"Input name\"\n     but: was \"\"",
-      "children" : [ {
-        "name" : "placeholder element",
-        "uid" : "9f0428e13d7bba15",
-        "parentUid" : "608bca4e30a8f63fea429e2144bd8e21",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407736160,
-          "stop" : 1630407746659,
-          "duration" : 10499
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "608bca4e30a8f63fea429e2144bd8e21"
-    }, {
-      "name" : "[02:59.25] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 02:58.423 Expected: is \"displayed\"\n     but: was \"hidden\"",
-      "children" : [ {
-        "name" : "isDisplayed element",
-        "uid" : "cdac28cb5a4c155f",
-        "parentUid" : "a06c46616618a50fd9d084b207805cc5",
-        "status" : "failed",
-        "time" : {
-          "start" : 1630407768461,
-          "stop" : 1630407779027,
+          "start" : 1630408176340,
+          "stop" : 1630408186906,
           "duration" : 10566
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a06c46616618a50fd9d084b207805cc5"
+      "uid" : "e7596be6557c62b2463690d1715fb893"
     }, {
-      "name" : "[03:55.753] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 03:55.139 Expected: is \"14px\"\n     but: was \"15px\"",
+      "name" : "[09:58.623] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "clear element",
+        "uid" : "37e2fe12aad8245a",
+        "parentUid" : "4fd1afc6f35e33acec70eb9c733bc90b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408188055,
+          "stop" : 1630408198627,
+          "duration" : 10572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4fd1afc6f35e33acec70eb9c733bc90b"
+    }, {
+      "name" : "[10:30.400] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "getValue element",
+        "uid" : "bfc754ee71927255",
+        "parentUid" : "705ee3b0c0b2bf7a92183ccba47a0b50",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408219795,
+          "stop" : 1630408230413,
+          "duration" : 10618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "705ee3b0c0b2bf7a92183ccba47a0b50"
+    }, {
+      "name" : "[11:02.439] Failed to execute 'UIElement.input' for element '#name[placeholder='Input name']' during '10' seconds.    \nCan't find Element '#name[placeholder='Input name'] (css='#name[placeholder='Input name']')' during 10 seconds",
+      "children" : [ {
+        "name" : "setText element",
+        "uid" : "c272a13e6e163b72",
+        "parentUid" : "703c9e171a8937e56b97fd101e5eadf3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408251943,
+          "stop" : 1630408262448,
+          "duration" : 10505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "703c9e171a8937e56b97fd101e5eadf3"
+    }, {
+      "name" : "[11:14.659] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "labelText",
+        "uid" : "d1a45e7e4da4b7e1",
+        "parentUid" : "eb56ab40afe4778b9332084b582d7949",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408263776,
+          "stop" : 1630408274666,
+          "duration" : 10890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb56ab40afe4778b9332084b582d7949"
+    }, {
+      "name" : "[11:25.226] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "input element",
+        "uid" : "ffb414284dfe522b",
+        "parentUid" : "8058a27f505b1cc6c4891f0c0e6f455b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408274667,
+          "stop" : 1630408285228,
+          "duration" : 10561
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8058a27f505b1cc6c4891f0c0e6f455b"
+    }, {
+      "name" : "[11:37.971] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "clear element",
+        "uid" : "1ec533c5b17c44fc",
+        "parentUid" : "92b91b17e0cec820b66548c0d4ad6e33",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408287285,
+          "stop" : 1630408297973,
+          "duration" : 10688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92b91b17e0cec820b66548c0d4ad6e33"
+    }, {
+      "name" : "[12:09.667] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "getValue element",
+        "uid" : "1286368db680b2b9",
+        "parentUid" : "35c7c588668bbaa0f20ce0481999d214",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408319116,
+          "stop" : 1630408329670,
+          "duration" : 10554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35c7c588668bbaa0f20ce0481999d214"
+    }, {
+      "name" : "[12:42.79] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "children" : [ {
+        "name" : "setText element",
+        "uid" : "3144e9ce21a47294",
+        "parentUid" : "07a34272e8024df7016228c24e5b44be",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630408351292,
+          "stop" : 1630408362084,
+          "duration" : 10792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07a34272e8024df7016228c24e5b44be"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "[08:28.922] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 08:28.305 Expected: is \"14px\"\n     but: was \"15px\"",
       "children" : [ {
         "name" : "css element",
-        "uid" : "a03283b0aab01b6d",
-        "parentUid" : "0fcb363a310f84a7a8e4ba6120398cd6",
+        "uid" : "202e7dc0804e2d3c",
+        "parentUid" : "1c559fd0af8335e2e4fe5eecb2f9bb87",
         "status" : "failed",
         "time" : {
-          "start" : 1630407825220,
-          "stop" : 1630407835755,
-          "duration" : 10535
+          "start" : 1630408098122,
+          "stop" : 1630408108925,
+          "duration" : 10803
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0fcb363a310f84a7a8e4ba6120398cd6"
+      "uid" : "1c559fd0af8335e2e4fe5eecb2f9bb87"
     }, {
-      "name" : "[04:06.434] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 04:05.830 Expected: is \"Input name\"\n     but: was \"\"",
+      "name" : "[08:39.572] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 08:38.960 Expected: is \"Input name\"\n     but: was \"\"",
       "children" : [ {
         "name" : "placeholder element",
-        "uid" : "4945317a18a08806",
-        "parentUid" : "583183efea6cefd7c89cf4d263f26c9a",
+        "uid" : "278899bee6302f24",
+        "parentUid" : "0d3b9a63e3f5ecdf0e8c382621ccec47",
         "status" : "failed",
         "time" : {
-          "start" : 1630407835756,
-          "stop" : 1630407846436,
-          "duration" : 10680
+          "start" : 1630408108926,
+          "stop" : 1630408119581,
+          "duration" : 10655
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "583183efea6cefd7c89cf4d263f26c9a"
+      "uid" : "0d3b9a63e3f5ecdf0e8c382621ccec47"
     }, {
-      "name" : "[04:38.681] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 04:38.080 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "name" : "[09:13.194] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 09:12.589 Expected: is \"displayed\"\n     but: was \"hidden\"",
       "children" : [ {
         "name" : "isDisplayed element",
-        "uid" : "7842b7dc57fe64ea",
-        "parentUid" : "7abc32c40685aaeeffd2dd3880ce9ad0",
+        "uid" : "cfa316ae15e433c",
+        "parentUid" : "9831ef2b9d1f5c74abf2c697764eec5c",
         "status" : "failed",
         "time" : {
-          "start" : 1630407868165,
-          "stop" : 1630407878682,
-          "duration" : 10517
+          "start" : 1630408142469,
+          "stop" : 1630408153196,
+          "duration" : 10727
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "7abc32c40685aaeeffd2dd3880ce9ad0"
+      "uid" : "9831ef2b9d1f5c74abf2c697764eec5c"
+    }, {
+      "name" : "[10:09.103] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 10:08.485 Expected: is \"14px\"\n     but: was \"15px\"",
+      "children" : [ {
+        "name" : "css element",
+        "uid" : "8ca627edd588baf1",
+        "parentUid" : "231b351cc8fa8729b9a643b1a47faca4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408198628,
+          "stop" : 1630408209108,
+          "duration" : 10480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "231b351cc8fa8729b9a643b1a47faca4"
+    }, {
+      "name" : "[10:19.789] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 10:19.160 Expected: is \"Input name\"\n     but: was \"\"",
+      "children" : [ {
+        "name" : "placeholder element",
+        "uid" : "94f55d0606096d9c",
+        "parentUid" : "d8df56226b986e3d1e77001ca9a6fb98",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408209109,
+          "stop" : 1630408219794,
+          "duration" : 10685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8df56226b986e3d1e77001ca9a6fb98"
+    }, {
+      "name" : "[10:51.937] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 10:51.336 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "children" : [ {
+        "name" : "isDisplayed element",
+        "uid" : "56e53865af75e68e",
+        "parentUid" : "461109c30c3b12c09161405f3af047d7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408241377,
+          "stop" : 1630408251942,
+          "duration" : 10565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "461109c30c3b12c09161405f3af047d7"
+    }, {
+      "name" : "[11:48.452] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 11:47.827 Expected: is \"14px\"\n     but: was \"15px\"",
+      "children" : [ {
+        "name" : "css element",
+        "uid" : "5a4d8aa84176a078",
+        "parentUid" : "774714f6a39a6178fcc04dd6abd9d19c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408297974,
+          "stop" : 1630408308454,
+          "duration" : 10480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "774714f6a39a6178fcc04dd6abd9d19c"
+    }, {
+      "name" : "[11:59.103] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 11:58.501 Expected: is \"Input name\"\n     but: was \"\"",
+      "children" : [ {
+        "name" : "placeholder element",
+        "uid" : "43703fc3dd64bd60",
+        "parentUid" : "0cb242c4f3a0f9aeb6ea1da1781dcf91",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408308455,
+          "stop" : 1630408319113,
+          "duration" : 10658
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0cb242c4f3a0f9aeb6ea1da1781dcf91"
+    }, {
+      "name" : "[12:31.288] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 12:30.672 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "children" : [ {
+        "name" : "isDisplayed element",
+        "uid" : "65ed27be073658d3",
+        "parentUid" : "426b1e09062daa2da27d57b8158491ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630408340746,
+          "stop" : 1630408351291,
+          "duration" : 10545
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "426b1e09062daa2da27d57b8158491ca"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],
