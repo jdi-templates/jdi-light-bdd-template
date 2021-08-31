@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "217498f65b38fd0a",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/217498f65b38fd0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406805490,
+        "stop" : 1630406805606,
+        "duration" : 116
+      }
+    }, {
       "uid" : "10a2662868f3d0f9",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/10a2662868f3d0f9",
       "status" : "passed",
@@ -33,11 +42,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "4c36ab1271db14cf",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/4c36ab1271db14cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406861028,
+        "stop" : 1630406861857,
+        "duration" : 829
+      }
+    }, {
       "uid" : "f080a06e1743ff53",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/f080a06e1743ff53",
       "status" : "passed",
@@ -60,13 +78,23 @@
   "1ed841867b2e1fb54b1186c519c2e" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "729751223b6567e5",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/729751223b6567e5",
+      "status" : "broken",
+      "statusDetails" : "[47:29.688] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406838733,
+        "stop" : 1630406849694,
+        "duration" : 10961
+      }
+    }, {
       "uid" : "97d8b4bd21c74138",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/97d8b4bd21c74138",
       "status" : "broken",
@@ -91,13 +119,23 @@
   "36470a91a0322c5cc8ce5631e6924b56" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "3af5d525ac981a0e",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/3af5d525ac981a0e",
+      "status" : "broken",
+      "statusDetails" : "[44:09.818] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406638874,
+        "stop" : 1630406649822,
+        "duration" : 10948
+      }
+    }, {
       "uid" : "819e1d71946101cd",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/819e1d71946101cd",
       "status" : "broken",
@@ -124,11 +162,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "1836592ab7c4511f",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/1836592ab7c4511f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406806208,
+        "stop" : 1630406806306,
+        "duration" : 98
+      }
+    }, {
       "uid" : "8748c493fe231ae",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8748c493fe231ae",
       "status" : "passed",
@@ -153,11 +200,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "dfc3dcac49587c20",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/dfc3dcac49587c20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406705214,
+        "stop" : 1630406705527,
+        "duration" : 313
+      }
+    }, {
       "uid" : "7b3e6d4602dbac6",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/7b3e6d4602dbac6",
       "status" : "passed",
@@ -180,13 +236,23 @@
   "2367d37c412c178f68b2b5b4029ee71f" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "882a658b476fc7fc",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/882a658b476fc7fc",
+      "status" : "broken",
+      "statusDetails" : "[46:01.788] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406751029,
+        "stop" : 1630406761790,
+        "duration" : 10761
+      }
+    }, {
       "uid" : "e2839b7c221a5785",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/e2839b7c221a5785",
       "status" : "broken",
@@ -210,14 +276,24 @@
   },
   "d9d407d5e505d05cad8b4dd785b57492" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "7f9a50bf0566759b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/7f9a50bf0566759b",
+      "status" : "failed",
+      "statusDetails" : "[44:54.279] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 44:53.700 Expected: is \"Input name\"\n     but: was \"\"",
+      "time" : {
+        "start" : 1630406683725,
+        "stop" : 1630406694282,
+        "duration" : 10557
+      }
+    }, {
       "uid" : "4145512fbaa10e0a",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/4145512fbaa10e0a",
       "status" : "failed",
@@ -242,13 +318,23 @@
   "991debda87d4ff24020215047b513ff9" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "59f4763d0da3f9b9",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/59f4763d0da3f9b9",
+      "status" : "broken",
+      "statusDetails" : "[45:38.735] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406727810,
+        "stop" : 1630406738738,
+        "duration" : 10928
+      }
+    }, {
       "uid" : "8257b3bd55e631de",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8257b3bd55e631de",
       "status" : "broken",
@@ -273,13 +359,23 @@
   "a8be205529fee148d64ebf8c219ea0cd" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "ebaf5e92d359047c",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ebaf5e92d359047c",
+      "status" : "broken",
+      "statusDetails" : "\nFailed to fill element 'Name' (locator: smart: #name) with value 'Roman'",
+      "time" : {
+        "start" : 1630406625018,
+        "stop" : 1630406635791,
+        "duration" : 10773
+      }
+    }, {
       "uid" : "960450cddc44a4ec",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/960450cddc44a4ec",
       "status" : "broken",
@@ -306,11 +402,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "9a9be21f2c05245b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/9a9be21f2c05245b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406738739,
+        "stop" : 1630406739305,
+        "duration" : 566
+      }
+    }, {
       "uid" : "d4c21aebe248bb47",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d4c21aebe248bb47",
       "status" : "passed",
@@ -332,14 +437,24 @@
   },
   "93d928a9ab59f8b8c342662cccb19eaf" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "897a09001b0901f",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/897a09001b0901f",
+      "status" : "failed",
+      "statusDetails" : "[48:13.549] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 48:12.944 Expected: is \"Input name\"\n     but: was \"\"",
+      "time" : {
+        "start" : 1630406882928,
+        "stop" : 1630406893551,
+        "duration" : 10623
+      }
+    }, {
       "uid" : "173253ac05dc029b",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/173253ac05dc029b",
       "status" : "failed",
@@ -366,11 +481,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "81c234d36cf13728",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/81c234d36cf13728",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406761970,
+        "stop" : 1630406762905,
+        "duration" : 935
+      }
+    }, {
       "uid" : "5204b51828209bd",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5204b51828209bd",
       "status" : "passed",
@@ -392,14 +516,24 @@
   },
   "5f50bf27126ca009c679021636715787" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "6e49550ffd8b2299",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/6e49550ffd8b2299",
+      "status" : "failed",
+      "statusDetails" : "[45:27.806] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 45:27.199 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "time" : {
+        "start" : 1630406717052,
+        "stop" : 1630406727809,
+        "duration" : 10757
+      }
+    }, {
       "uid" : "803c84bf555e0f18",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/803c84bf555e0f18",
       "status" : "failed",
@@ -426,11 +560,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "b54dc4ddf281a221",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b54dc4ddf281a221",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406860186,
+        "stop" : 1630406861027,
+        "duration" : 841
+      }
+    }, {
       "uid" : "8fad700c7d8c973b",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8fad700c7d8c973b",
       "status" : "passed",
@@ -453,13 +596,23 @@
   "175da7ef06f329634f41724a47f50fd6" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "bd3f322f3d84dc9d",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/bd3f322f3d84dc9d",
+      "status" : "broken",
+      "statusDetails" : "[48:24.103] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406893551,
+        "stop" : 1630406904104,
+        "duration" : 10553
+      }
+    }, {
       "uid" : "5c7e479847bf4fa",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5c7e479847bf4fa",
       "status" : "broken",
@@ -484,13 +637,23 @@
   "e0a58cecfefcdf9ef0f9e4543474275d" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "84e8cc926481eb80",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/84e8cc926481eb80",
+      "status" : "broken",
+      "statusDetails" : "[44:32.928] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406662031,
+        "stop" : 1630406672931,
+        "duration" : 10900
+      }
+    }, {
       "uid" : "b60c110f69518b1e",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b60c110f69518b1e",
       "status" : "broken",
@@ -517,11 +680,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "496e20c9a463b1e8",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/496e20c9a463b1e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406635793,
+        "stop" : 1630406636788,
+        "duration" : 995
+      }
+    }, {
       "uid" : "2a861826e87500d9",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/2a861826e87500d9",
       "status" : "passed",
@@ -544,13 +716,23 @@
   "a389061608be69c0275ef875e3e1b666" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "806c7a44a6a9d9ab",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/806c7a44a6a9d9ab",
+      "status" : "broken",
+      "statusDetails" : "[46:45.487] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406794791,
+        "stop" : 1630406805489,
+        "duration" : 10698
+      }
+    }, {
       "uid" : "1e6e3ef7951e957d",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/1e6e3ef7951e957d",
       "status" : "broken",
@@ -574,14 +756,24 @@
   },
   "2571908ff8b7c40b679ba8d1a01a2a35" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "69a7ab8f2f47de0d",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/69a7ab8f2f47de0d",
+      "status" : "failed",
+      "statusDetails" : "[46:34.788] Failed to execute 'IsAssert.attr' for element '#name(css='#name')' during '10' seconds. 46:34.194 Expected: is \"Input name\"\n     but: was \"\"",
+      "time" : {
+        "start" : 1630406784160,
+        "stop" : 1630406794790,
+        "duration" : 10630
+      }
+    }, {
       "uid" : "ff1d6debee93a933",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ff1d6debee93a933",
       "status" : "failed",
@@ -606,13 +798,23 @@
   "27a3c279f002dd32ed725909adc0dd55" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "915977c5009754cf",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/915977c5009754cf",
+      "status" : "broken",
+      "statusDetails" : "[46:13.605] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406762906,
+        "stop" : 1630406773608,
+        "duration" : 10702
+      }
+    }, {
       "uid" : "9a557bb702318f00",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/9a557bb702318f00",
       "status" : "broken",
@@ -639,11 +841,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "ffa4e7f48ae67e4",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ffa4e7f48ae67e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406739306,
+        "stop" : 1630406739822,
+        "duration" : 516
+      }
+    }, {
       "uid" : "9f3dde2cd8c8edd5",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/9f3dde2cd8c8edd5",
       "status" : "passed",
@@ -666,13 +877,23 @@
   "c346af1e6e9f95668c25922f5dfb8ffb" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "87eb7ea2654f8741",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/87eb7ea2654f8741",
+      "status" : "broken",
+      "statusDetails" : "[47:40.183] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406849695,
+        "stop" : 1630406860185,
+        "duration" : 10490
+      }
+    }, {
       "uid" : "80f60f5ba40c7d97",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/80f60f5ba40c7d97",
       "status" : "broken",
@@ -696,14 +917,24 @@
   },
   "34f29c90207c825fa69f60e5a6f6760e" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "e50a7365f6271433",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/e50a7365f6271433",
+      "status" : "failed",
+      "statusDetails" : "[46:24.157] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 46:23.565 Expected: is \"14px\"\n     but: was \"15px\"",
+      "time" : {
+        "start" : 1630406773609,
+        "stop" : 1630406784159,
+        "duration" : 10550
+      }
+    }, {
       "uid" : "68fa9fbdbc719fa4",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/68fa9fbdbc719fa4",
       "status" : "failed",
@@ -730,11 +961,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "63ca81da20cadca5",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/63ca81da20cadca5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406660866,
+        "stop" : 1630406662030,
+        "duration" : 1164
+      }
+    }, {
       "uid" : "aa5f65e88a1493ff",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/aa5f65e88a1493ff",
       "status" : "passed",
@@ -757,13 +997,23 @@
   "aba036cf181938a55cab57292193c567" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "92ef4fbffe4329b6",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/92ef4fbffe4329b6",
+      "status" : "broken",
+      "statusDetails" : "[44:20.501] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406649824,
+        "stop" : 1630406660506,
+        "duration" : 10682
+      }
+    }, {
       "uid" : "a776548dbff67b4c",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/a776548dbff67b4c",
       "status" : "broken",
@@ -787,14 +1037,24 @@
   },
   "98ef2ee7cf2db9f28bdc3b75f1cac640" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "e21fb462ac551354",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/e21fb462ac551354",
+      "status" : "failed",
+      "statusDetails" : "[44:43.722] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 44:43.146 Expected: is \"14px\"\n     but: was \"15px\"",
+      "time" : {
+        "start" : 1630406672932,
+        "stop" : 1630406683724,
+        "duration" : 10792
+      }
+    }, {
       "uid" : "cdebf06a69f37aa5",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/cdebf06a69f37aa5",
       "status" : "failed",
@@ -821,11 +1081,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "be5164728e8628e1",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/be5164728e8628e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406838412,
+        "stop" : 1630406838732,
+        "duration" : 320
+      }
+    }, {
       "uid" : "d7249b5431c7f70a",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d7249b5431c7f70a",
       "status" : "passed",
@@ -850,11 +1119,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "de912a58417771db",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/de912a58417771db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406706190,
+        "stop" : 1630406706551,
+        "duration" : 361
+      }
+    }, {
       "uid" : "764c45f70b02ba30",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/764c45f70b02ba30",
       "status" : "passed",
@@ -879,11 +1157,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "8cb5e6bbd2211ff",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8cb5e6bbd2211ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904324,
+        "stop" : 1630406904612,
+        "duration" : 288
+      }
+    }, {
       "uid" : "99e0e93b192677fe",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/99e0e93b192677fe",
       "status" : "passed",
@@ -908,11 +1195,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "19ce779378d867c4",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/19ce779378d867c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406638343,
+        "stop" : 1630406638873,
+        "duration" : 530
+      }
+    }, {
       "uid" : "b69cb8d82c8647cf",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b69cb8d82c8647cf",
       "status" : "passed",
@@ -937,11 +1233,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d588892f0cecf284",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d588892f0cecf284",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406637773,
+        "stop" : 1630406638342,
+        "duration" : 569
+      }
+    }, {
       "uid" : "3478c53d40001e93",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/3478c53d40001e93",
       "status" : "passed",
@@ -966,11 +1271,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "bde169d4023addb4",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/bde169d4023addb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406706800,
+        "stop" : 1630406717051,
+        "duration" : 10251
+      }
+    }, {
       "uid" : "48e516cbff685986",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/48e516cbff685986",
       "status" : "passed",
@@ -993,13 +1307,23 @@
   "6a0fd496f0fe04eee8553e1d960f12f7" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "9898da814e17ac83",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/9898da814e17ac83",
+      "status" : "broken",
+      "statusDetails" : "[45:51.26] Failed to execute 'TextAssert.text' for element '#name label(css='[for=name]')' during '10' seconds. Search rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406740163,
+        "stop" : 1630406751028,
+        "duration" : 10865
+      }
+    }, {
       "uid" : "8ffbb97a4f0395b2",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8ffbb97a4f0395b2",
       "status" : "broken",
@@ -1024,13 +1348,23 @@
   "c5ec2ececdc682f299d6952f586a766" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "38ccdfdfde1bc177",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/38ccdfdfde1bc177",
+      "status" : "broken",
+      "statusDetails" : "[47:17.463] Failed to execute 'UIElement.input' for element '#name[placeholder='Input name']' during '10' seconds.    \nCan't find Element '#name[placeholder='Input name'] (css='#name[placeholder='Input name']')' during 10 seconds",
+      "time" : {
+        "start" : 1630406827009,
+        "stop" : 1630406837477,
+        "duration" : 10468
+      }
+    }, {
       "uid" : "7b71c1e63085d3a7",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/7b71c1e63085d3a7",
       "status" : "broken",
@@ -1057,11 +1391,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "648962300088b20b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/648962300088b20b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406636790,
+        "stop" : 1630406636985,
+        "duration" : 195
+      }
+    }, {
       "uid" : "acfa9e9d3b152068",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/acfa9e9d3b152068",
       "status" : "passed",
@@ -1086,11 +1429,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "faea85f4ae87a18b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/faea85f4ae87a18b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406805948,
+        "stop" : 1630406806207,
+        "duration" : 259
+      }
+    }, {
       "uid" : "c681dfc1c7b3c57",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c681dfc1c7b3c57",
       "status" : "passed",
@@ -1115,11 +1467,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "90be2aaf5a128000",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/90be2aaf5a128000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904881,
+        "stop" : 1630406904986,
+        "duration" : 105
+      }
+    }, {
       "uid" : "526330e19b79016a",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/526330e19b79016a",
       "status" : "passed",
@@ -1144,11 +1505,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d32446247072857a",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d32446247072857a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406739823,
+        "stop" : 1630406740162,
+        "duration" : 339
+      }
+    }, {
       "uid" : "633476f7fe764fce",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/633476f7fe764fce",
       "status" : "passed",
@@ -1173,11 +1543,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "540485fb98e1307c",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/540485fb98e1307c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904228,
+        "stop" : 1630406904324,
+        "duration" : 96
+      }
+    }, {
       "uid" : "5dff5d65484ba50f",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5dff5d65484ba50f",
       "status" : "passed",
@@ -1202,11 +1581,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "3c685e4dd75fecef",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/3c685e4dd75fecef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406805607,
+        "stop" : 1630406805704,
+        "duration" : 97
+      }
+    }, {
       "uid" : "a0e46aa79617056f",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/a0e46aa79617056f",
       "status" : "passed",
@@ -1229,13 +1617,23 @@
   "70579cb11cf76b21fc33ad1fd5e6eeee" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "1afa8bf11f349156",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/1afa8bf11f349156",
+      "status" : "broken",
+      "statusDetails" : "[48:56.366] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406925751,
+        "stop" : 1630406936368,
+        "duration" : 10617
+      }
+    }, {
       "uid" : "61868838d14adfbb",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/61868838d14adfbb",
       "status" : "broken",
@@ -1262,11 +1660,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "96ff667a766c5672",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/96ff667a766c5672",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406706553,
+        "stop" : 1630406706799,
+        "duration" : 246
+      }
+    }, {
       "uid" : "6b9550e436730e64",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/6b9550e436730e64",
       "status" : "passed",
@@ -1291,11 +1698,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "b234014065b3dd60",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b234014065b3dd60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406636986,
+        "stop" : 1630406637770,
+        "duration" : 784
+      }
+    }, {
       "uid" : "b7adef4cdd2704ea",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b7adef4cdd2704ea",
       "status" : "passed",
@@ -1318,13 +1734,23 @@
   "622fbdfad8ee15fff16073de6e0d7311" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "c33e10fcf35a13aa",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c33e10fcf35a13aa",
+      "status" : "broken",
+      "statusDetails" : "\nFailed to fill element 'Gender' (locator: smart: #gender) with value 'Female'",
+      "time" : {
+        "start" : 1630406611647,
+        "stop" : 1630406624928,
+        "duration" : 13281
+      }
+    }, {
       "uid" : "f1c3896cfceda12a",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/f1c3896cfceda12a",
       "status" : "broken",
@@ -1351,11 +1777,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "4e3a48832cf188ab",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/4e3a48832cf188ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904986,
+        "stop" : 1630406915090,
+        "duration" : 10104
+      }
+    }, {
       "uid" : "619530ab45a7586e",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/619530ab45a7586e",
       "status" : "passed",
@@ -1377,14 +1812,24 @@
   },
   "983f75d63452a56b01ccc9d0de3a618c" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "45d6d3f9a203e676",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/45d6d3f9a203e676",
+      "status" : "failed",
+      "statusDetails" : "[48:02.925] Failed to execute 'IsAssert.css' for element '#name(css='#name')' during '10' seconds. 48:02.340 Expected: is \"14px\"\n     but: was \"15px\"",
+      "time" : {
+        "start" : 1630406872516,
+        "stop" : 1630406882927,
+        "duration" : 10411
+      }
+    }, {
       "uid" : "d8bb0339492aaa55",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d8bb0339492aaa55",
       "status" : "failed",
@@ -1411,11 +1856,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "7ddde9e0224a5216",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/7ddde9e0224a5216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904612,
+        "stop" : 1630406904881,
+        "duration" : 269
+      }
+    }, {
       "uid" : "85a6f2334bc4b97",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/85a6f2334bc4b97",
       "status" : "passed",
@@ -1440,11 +1894,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "c120fc178bdd951e",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c120fc178bdd951e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406904105,
+        "stop" : 1630406904227,
+        "duration" : 122
+      }
+    }, {
       "uid" : "432dcf4738d650cb",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/432dcf4738d650cb",
       "status" : "passed",
@@ -1467,13 +1930,23 @@
   "8bd4401a55f98d256a7677f6ea09707c" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "2afe0679b07d57db",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/2afe0679b07d57db",
+      "status" : "broken",
+      "statusDetails" : "[45:05.207] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406694283,
+        "stop" : 1630406705212,
+        "duration" : 10929
+      }
+    }, {
       "uid" : "f37fb297e60dc6ac",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/f37fb297e60dc6ac",
       "status" : "broken",
@@ -1497,14 +1970,24 @@
   },
   "f700967daac9f374741613bfe06989e2" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "b6c17bffe0b1b10f",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/b6c17bffe0b1b10f",
+      "status" : "failed",
+      "statusDetails" : "[48:45.742] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 48:45.152 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "time" : {
+        "start" : 1630406915092,
+        "stop" : 1630406925750,
+        "duration" : 10658
+      }
+    }, {
       "uid" : "4620404d5118faa5",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/4620404d5118faa5",
       "status" : "failed",
@@ -1531,11 +2014,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "ba62ca6f4d71beda",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/ba62ca6f4d71beda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406837478,
+        "stop" : 1630406837962,
+        "duration" : 484
+      }
+    }, {
       "uid" : "e6b825833cb91e3d",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/e6b825833cb91e3d",
       "status" : "passed",
@@ -1560,11 +2052,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "db31e5af53b5d4d0",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/db31e5af53b5d4d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406705725,
+        "stop" : 1630406706189,
+        "duration" : 464
+      }
+    }, {
       "uid" : "80fb11117dd7e946",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/80fb11117dd7e946",
       "status" : "passed",
@@ -1589,11 +2090,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d56fa33f2f7b75ef",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d56fa33f2f7b75ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406805705,
+        "stop" : 1630406805947,
+        "duration" : 242
+      }
+    }, {
       "uid" : "cfedd755e4999f26",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/cfedd755e4999f26",
       "status" : "passed",
@@ -1618,11 +2128,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "341eb1b21d4fe864",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/341eb1b21d4fe864",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406761791,
+        "stop" : 1630406761969,
+        "duration" : 178
+      }
+    }, {
       "uid" : "76247c99c77e6dce",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/76247c99c77e6dce",
       "status" : "passed",
@@ -1644,14 +2163,24 @@
   },
   "36acf9155ae1ce77e5a5c534d9781d7d" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "2f04322a1b4120bf",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/2f04322a1b4120bf",
+      "status" : "failed",
+      "statusDetails" : "[47:07.6] Failed to execute 'IsAssert.displayed' for element '#name(css='#name')' during '10' seconds. 47:06.431 Expected: is \"displayed\"\n     but: was \"hidden\"",
+      "time" : {
+        "start" : 1630406816387,
+        "stop" : 1630406827008,
+        "duration" : 10621
+      }
+    }, {
       "uid" : "453ff2fa40209941",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/453ff2fa40209941",
       "status" : "failed",
@@ -1676,13 +2205,23 @@
   "af28c703e55d8d98cfd5578558ef48e5" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "844f43f439d7008f",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/844f43f439d7008f",
+      "status" : "broken",
+      "statusDetails" : "[47:52.513] Failed to execute 'UIElement.input' for element '#name' during '10' seconds.    \nSearch rules failed for element. Please check base().searchRules() for element or in global settings(JDISettings.ELEMENT.searchRule)",
+      "time" : {
+        "start" : 1630406861858,
+        "stop" : 1630406872515,
+        "duration" : 10657
+      }
+    }, {
       "uid" : "5581787ca09a4c5e",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5581787ca09a4c5e",
       "status" : "broken",
@@ -1709,11 +2248,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "274cb868334a86e6",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/274cb868334a86e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406705530,
+        "stop" : 1630406705724,
+        "duration" : 194
+      }
+    }, {
       "uid" : "1255fd32672b364c",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/1255fd32672b364c",
       "status" : "passed",
@@ -1738,11 +2286,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "29954ca680daa474",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/29954ca680daa474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406806307,
+        "stop" : 1630406816386,
+        "duration" : 10079
+      }
+    }, {
       "uid" : "5cdf06a0fcbed8af",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/5cdf06a0fcbed8af",
       "status" : "passed",
@@ -1767,11 +2324,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "117e11d6d5e10cd7",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/117e11d6d5e10cd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406660508,
+        "stop" : 1630406660865,
+        "duration" : 357
+      }
+    }, {
       "uid" : "8e4dcbc6680f1a64",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/8e4dcbc6680f1a64",
       "status" : "passed",
@@ -1796,11 +2362,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d1b801f6fedee83",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/d1b801f6fedee83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630406837966,
+        "stop" : 1630406838411,
+        "duration" : 445
+      }
+    }, {
       "uid" : "3b0921d9c1c768af",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/3b0921d9c1c768af",
       "status" : "passed",
