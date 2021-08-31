@@ -1,0 +1,233 @@
+{
+  "uid" : "23988939b7e878fc",
+  "name" : "element does not appear",
+  "fullName" : "TestsWithLocators: element does not appear",
+  "historyId" : "4a299921c33b1c366583ab057bc8d6f0",
+  "time" : {
+    "start" : 1630407180816,
+    "stop" : 1630407191126,
+    "duration" : 10310
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Page with url \"https://jdi-testing.github.io/jdi-light/html5.html\" openned",
+      "time" : {
+        "start" : 1630407180817,
+        "stop" : 1630407181006,
+        "duration" : 189
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630407180818,
+          "stop" : 1630407181006,
+          "duration" : 188
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630407180823,
+            "stop" : 1630407181006,
+            "duration" : 183
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "81a87ca9bb785f68",
+          "name" : "Details",
+          "source" : "81a87ca9bb785f68.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \".fa-sign-out\" does not appear",
+      "time" : {
+        "start" : 1630407181007,
+        "stop" : 1630407191126,
+        "duration" : 10119
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '.fa-sign-out' does not appear during 10 seconds",
+        "time" : {
+          "start" : 1630407181007,
+          "stop" : 1630407191125,
+          "duration" : 10118
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that '.fa-sign-out' does not appear during 10 seconds",
+          "time" : {
+            "start" : 1630407181015,
+            "stop" : 1630407191125,
+            "duration" : 10110
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that '.fa-sign-out' is displayed",
+            "time" : {
+              "start" : 1630407181017,
+              "stop" : 1630407181111,
+              "duration" : 94
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "48c1f9afaddf505e",
+              "name" : "Actual result",
+              "source" : "48c1f9afaddf505e.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "7568b18f25326911",
+          "name" : "Details",
+          "source" : "7568b18f25326911.html",
+          "type" : "text/plain",
+          "size" : 33
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "element does not appear"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az234-207"
+  }, {
+    "name" : "thread",
+    "value" : "4336@fv-az234-207.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "element does not appear"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "bde169d4023addb4",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/bde169d4023addb4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406706800,
+          "stop" : 1630406717051,
+          "duration" : 10251
+        }
+      }, {
+        "uid" : "48e516cbff685986",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/48e516cbff685986",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406249450,
+          "stop" : 1630406259795,
+          "duration" : 10345
+        }
+      }, {
+        "uid" : "c8642d6a35611e30",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c8642d6a35611e30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405784557,
+          "stop" : 1630405794759,
+          "duration" : 10202
+        }
+      } ]
+    },
+    "tags" : [ "locators" ]
+  },
+  "source" : "23988939b7e878fc.json",
+  "parameterValues" : [ ]
+}

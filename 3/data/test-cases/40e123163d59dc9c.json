@@ -1,0 +1,311 @@
+{
+  "uid" : "40e123163d59dc9c",
+  "name" : "uncheck element",
+  "fullName" : "TestsWithLocators: uncheck element",
+  "historyId" : "c5216747563eaa253071a600040f8087",
+  "time" : {
+    "start" : 1630407134006,
+    "stop" : 1630407135204,
+    "duration" : 1198
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Page with url \"https://jdi-testing.github.io/jdi-light/html5.html\" openned",
+      "time" : {
+        "start" : 1630407134006,
+        "stop" : 1630407134189,
+        "duration" : 183
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630407134007,
+          "stop" : 1630407134189,
+          "duration" : 182
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630407134013,
+            "stop" : 1630407134189,
+            "duration" : 176
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "938ae252f5a6e97",
+          "name" : "Details",
+          "source" : "938ae252f5a6e97.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  uncheck \"#accept-conditions\"",
+      "time" : {
+        "start" : 1630407134189,
+        "stop" : 1630407134766,
+        "duration" : 577
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Uncheck '#accept-conditions'",
+        "time" : {
+          "start" : 1630407134191,
+          "stop" : 1630407134765,
+          "duration" : 574
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is selected",
+          "time" : {
+            "start" : 1630407134209,
+            "stop" : 1630407134294,
+            "duration" : 85
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b824069a6a0ffaf8",
+            "name" : "Actual result",
+            "source" : "b824069a6a0ffaf8.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "Click on '#accept-conditions'",
+          "time" : {
+            "start" : 1630407134296,
+            "stop" : 1630407134765,
+            "duration" : 469
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that '#accept-conditions' is disabled",
+            "time" : {
+              "start" : 1630407134301,
+              "stop" : 1630407134601,
+              "duration" : 300
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "ac974c0827e8d361",
+              "name" : "Actual result",
+              "source" : "ac974c0827e8d361.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "79dfe1d1a775047d",
+          "name" : "Details",
+          "source" : "79dfe1d1a775047d.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 3,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"#accept-conditions\" is deselected",
+      "time" : {
+        "start" : 1630407134766,
+        "stop" : 1630407135204,
+        "duration" : 438
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '#accept-conditions' is deselected",
+        "time" : {
+          "start" : 1630407134767,
+          "stop" : 1630407135201,
+          "duration" : 434
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is deselected",
+          "time" : {
+            "start" : 1630407134773,
+            "stop" : 1630407135201,
+            "duration" : 428
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "6e8c9fc7fc5c4051",
+            "name" : "Actual result",
+            "source" : "6e8c9fc7fc5c4051.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "e15aa7a8a0b2849c",
+          "name" : "Details",
+          "source" : "e15aa7a8a0b2849c.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "uncheck element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az234-207"
+  }, {
+    "name" : "thread",
+    "value" : "4336@fv-az234-207.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "uncheck element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "63ca81da20cadca5",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/63ca81da20cadca5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406660866,
+          "stop" : 1630406662030,
+          "duration" : 1164
+        }
+      }, {
+        "uid" : "aa5f65e88a1493ff",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/aa5f65e88a1493ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630406203276,
+          "stop" : 1630406204497,
+          "duration" : 1221
+        }
+      }, {
+        "uid" : "949c96ec2a3fee37",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/949c96ec2a3fee37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405738395,
+          "stop" : 1630405739479,
+          "duration" : 1084
+        }
+      } ]
+    },
+    "tags" : [ "locators" ]
+  },
+  "source" : "40e123163d59dc9c.json",
+  "parameterValues" : [ ]
+}
