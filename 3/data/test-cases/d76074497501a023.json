@@ -1,0 +1,237 @@
+{
+  "uid" : "d76074497501a023",
+  "name" : "check element",
+  "fullName" : "TestsWithName: check element",
+  "historyId" : "cb52567e78051eecb3ac03347d8840de",
+  "time" : {
+    "start" : 1630405839341,
+    "stop" : 1630405839540,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630405839341,
+        "stop" : 1630405839361,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630405839342,
+          "stop" : 1630405839361,
+          "duration" : 19
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630405839346,
+            "stop" : 1630405839361,
+            "duration" : 15
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "5ad35f333a730c0a",
+          "name" : "Details",
+          "source" : "5ad35f333a730c0a.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  check \"Accept Conditions\"",
+      "time" : {
+        "start" : 1630405839362,
+        "stop" : 1630405839457,
+        "duration" : 95
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Check 'Accept Conditions'",
+        "time" : {
+          "start" : 1630405839363,
+          "stop" : 1630405839456,
+          "duration" : 93
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that 'Accept Conditions' is deselected",
+          "time" : {
+            "start" : 1630405839369,
+            "stop" : 1630405839456,
+            "duration" : 87
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "206f4768fe25f055",
+            "name" : "Actual result",
+            "source" : "206f4768fe25f055.html",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "347a9a1e6ed321d5",
+          "name" : "Details",
+          "source" : "347a9a1e6ed321d5.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Accept Conditions\" is selected",
+      "time" : {
+        "start" : 1630405839457,
+        "stop" : 1630405839540,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that 'Accept Conditions' is selected",
+        "time" : {
+          "start" : 1630405839458,
+          "stop" : 1630405839538,
+          "duration" : 80
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that 'Accept Conditions' is selected",
+          "time" : {
+            "start" : 1630405839463,
+            "stop" : 1630405839538,
+            "duration" : 75
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "52179e9c8bacf459",
+            "name" : "Actual result",
+            "source" : "52179e9c8bacf459.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "adbce23fddc535d9",
+          "name" : "Details",
+          "source" : "adbce23fddc535d9.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "check element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az270-742"
+  }, {
+    "name" : "thread",
+    "value" : "4295@fv-az270-742.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "check element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "names" ]
+  },
+  "source" : "d76074497501a023.json",
+  "parameterValues" : [ ]
+}

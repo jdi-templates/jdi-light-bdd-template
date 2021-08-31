@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "d066dcb8ff46f88ef0bb7cbffae6c8cc",
+    "name" : "TestsWithLocators",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 19
+    }
+  }, {
+    "uid" : "b96876f602532c435fac18e9b35001bf",
+    "name" : "TestsWithName",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 19
+    }
+  }, {
+    "uid" : "848a3b49fe74e59b62eb8c7523e8ac0d",
+    "name" : "TestsWithProperties",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 19
+    }
+  }, {
+    "uid" : "f9ac34bd1af3e69d3063510f79f1cfaa",
+    "name" : "Form",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "fc5878fd2f31d3224457c6cd23b98159",
+    "name" : "JsonBasedPage",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

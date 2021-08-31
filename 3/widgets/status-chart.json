@@ -1,0 +1,611 @@
+[ {
+  "uid" : "f55cd6e5d9477467",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630405960879,
+    "stop" : 1630405971555,
+    "duration" : 10676
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c4ef99d527408b6",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630405782853,
+    "stop" : 1630405783157,
+    "duration" : 304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f85ba79b2d6cda8a",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630405982239,
+    "stop" : 1630405982363,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b196987f85014a81",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630405839541,
+    "stop" : 1630405840417,
+    "duration" : 876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7812eabe3121f0a1",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630405784287,
+    "stop" : 1630405784556,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e693a6fcf28838b",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630405761197,
+    "stop" : 1630405771976,
+    "duration" : 10779
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ffda050c23ffc67",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630405851154,
+    "stop" : 1630405861614,
+    "duration" : 10460
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6de14e95c7cfe9b1",
+  "name" : "input element",
+  "time" : {
+    "start" : 1630405927101,
+    "stop" : 1630405937652,
+    "duration" : 10551
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a0fd5650da28d5c9",
+  "name" : "input element",
+  "time" : {
+    "start" : 1630405828567,
+    "stop" : 1630405839339,
+    "duration" : 10772
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9792706831aaa094",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630405771978,
+    "stop" : 1630405782851,
+    "duration" : 10873
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8642d6a35611e30",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630405784557,
+    "stop" : 1630405794759,
+    "duration" : 10202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3849fd077f173b79",
+  "name" : "setText element",
+  "time" : {
+    "start" : 1630405904397,
+    "stop" : 1630405915025,
+    "duration" : 10628
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "547eeef9da13003f",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630405816980,
+    "stop" : 1630405817493,
+    "duration" : 513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "933ae1055cea4e96",
+  "name" : "getAttribute element",
+  "time" : {
+    "start" : 1630405882900,
+    "stop" : 1630405883007,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20deda6ce80a4c3d",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630405915573,
+    "stop" : 1630405916053,
+    "duration" : 480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ddb786aa847d6a2",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630405938610,
+    "stop" : 1630405939466,
+    "duration" : 856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a25f0a9151d560bb",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630405715001,
+    "stop" : 1630405715607,
+    "duration" : 606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "720e4dd38bd0c1ee",
+  "name" : "isDisplayed element",
+  "time" : {
+    "start" : 1630405893761,
+    "stop" : 1630405904396,
+    "duration" : 10635
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e4ea39873b9c4dd",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630405983165,
+    "stop" : 1630405993323,
+    "duration" : 10158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8788d282d1c479c",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630405883744,
+    "stop" : 1630405893760,
+    "duration" : 10016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701ac97a68db8ea6",
+  "name" : "setText element",
+  "time" : {
+    "start" : 1630405805436,
+    "stop" : 1630405816419,
+    "duration" : 10983
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d78b84f8194661d7",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630405883306,
+    "stop" : 1630405883587,
+    "duration" : 281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "949c96ec2a3fee37",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630405738395,
+    "stop" : 1630405739479,
+    "duration" : 1084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "187fada3b09661a6",
+  "name" : "fill Contact Form from json",
+  "time" : {
+    "start" : 1630405688372,
+    "stop" : 1630405702035,
+    "duration" : 13663
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f28ce0d620e3d998",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630405715608,
+    "stop" : 1630405716134,
+    "duration" : 526
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d4e22c4a821fb66",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630405783897,
+    "stop" : 1630405784287,
+    "duration" : 390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f70731cad4f44caf",
+  "name" : "isEnabled element",
+  "time" : {
+    "start" : 1630405783423,
+    "stop" : 1630405783896,
+    "duration" : 473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77af8999db63710f",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630405983064,
+    "stop" : 1630405983164,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5857cd465b5b7fbf",
+  "name" : "getAttribute element",
+  "time" : {
+    "start" : 1630405783160,
+    "stop" : 1630405783422,
+    "duration" : 262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "801ab733c9ef97ce",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630405750309,
+    "stop" : 1630405761196,
+    "duration" : 10887
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "81d242dbdc8aaf8f",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630405916054,
+    "stop" : 1630405916361,
+    "duration" : 307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66d3109a6a2c7bd7",
+  "name" : "setText element",
+  "time" : {
+    "start" : 1630406003890,
+    "stop" : 1630406014501,
+    "duration" : 10611
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "caa2e8eff707e4b",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630405738005,
+    "stop" : 1630405738393,
+    "duration" : 388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ebad6cb046299a1",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630405716135,
+    "stop" : 1630405727172,
+    "duration" : 11037
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fab5a34510f187a",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630405861615,
+    "stop" : 1630405872245,
+    "duration" : 10630
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "efa8a2f4a4764d4f",
+  "name" : "click element",
+  "time" : {
+    "start" : 1630405714209,
+    "stop" : 1630405714997,
+    "duration" : 788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5c0a1d38831627",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630405971556,
+    "stop" : 1630405982238,
+    "duration" : 10682
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "295131fee8961d74",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630405882771,
+    "stop" : 1630405882899,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ce62fac1c4b8dd6",
+  "name" : "click element",
+  "time" : {
+    "start" : 1630405816420,
+    "stop" : 1630405816979,
+    "duration" : 559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c6cb9ea7cb7a3e",
+  "name" : "isEnabled element",
+  "time" : {
+    "start" : 1630405883008,
+    "stop" : 1630405883305,
+    "duration" : 297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c75cda229f90363",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630405817494,
+    "stop" : 1630405817768,
+    "duration" : 274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b7e23b65295da9d",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630405950242,
+    "stop" : 1630405960877,
+    "duration" : 10635
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d3e338bd0ac6e15",
+  "name" : "json based contacts page",
+  "time" : {
+    "start" : 1630405713955,
+    "stop" : 1630405714208,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31be0881f4c50151",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630405817769,
+    "stop" : 1630405828566,
+    "duration" : 10797
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "73c758bf7f9726a",
+  "name" : "isEnabled element",
+  "time" : {
+    "start" : 1630405982464,
+    "stop" : 1630405982804,
+    "duration" : 340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "714fca9b0f07b7b8",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630405939467,
+    "stop" : 1630405950241,
+    "duration" : 10774
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1c70a34b3d9a0a61",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630405982805,
+    "stop" : 1630405983064,
+    "duration" : 259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "311e340290fd4a2a",
+  "name" : "input element",
+  "time" : {
+    "start" : 1630405727174,
+    "stop" : 1630405738004,
+    "duration" : 10830
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "df2e2b9ceb9d0a08",
+  "name" : "fill Contact Form from table",
+  "time" : {
+    "start" : 1630405702110,
+    "stop" : 1630405712840,
+    "duration" : 10730
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f29999e2ae6e9ca",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630405840418,
+    "stop" : 1630405851153,
+    "duration" : 10735
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3dcab13977fd0b9a",
+  "name" : "click element",
+  "time" : {
+    "start" : 1630405915026,
+    "stop" : 1630405915572,
+    "duration" : 546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "344e7239eae119e3",
+  "name" : "getAttribute element",
+  "time" : {
+    "start" : 1630405982364,
+    "stop" : 1630405982464,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "253426d3b49c8e83",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630405883588,
+    "stop" : 1630405883743,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b47ae8860492c3f7",
+  "name" : "isDisplayed element",
+  "time" : {
+    "start" : 1630405993324,
+    "stop" : 1630406003889,
+    "duration" : 10565
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c53e705e7dd93ccd",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630405916362,
+    "stop" : 1630405927101,
+    "duration" : 10739
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1cfb4949eaec9f8",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630405739480,
+    "stop" : 1630405750303,
+    "duration" : 10823
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4fe4ef8fa4696ae5",
+  "name" : "json based bootstrap page",
+  "time" : {
+    "start" : 1630405712842,
+    "stop" : 1630405713954,
+    "duration" : 1112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e6678f520964c70",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630405872246,
+    "stop" : 1630405882770,
+    "duration" : 10524
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d76074497501a023",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630405839341,
+    "stop" : 1630405839540,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67b1a74603ccd912",
+  "name" : "isDisplayed element",
+  "time" : {
+    "start" : 1630405794760,
+    "stop" : 1630405805434,
+    "duration" : 10674
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "539d522cd423b83",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630405937653,
+    "stop" : 1630405938609,
+    "duration" : 956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
