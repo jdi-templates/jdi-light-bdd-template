@@ -1,5 +1,6 @@
 package cucumberTests;
 
+import com.epam.jdi.light.driver.WebDriverFactory;
 import com.epam.jdi.light.elements.composite.Form;
 import com.epam.jdi.light.elements.composite.WebPage;
 import cucumberTests.steps.User;
@@ -16,7 +17,7 @@ import static com.epam.jdi.light.elements.init.UIFactory.*;
 @CucumberOptions(
     features = "classpath:features"
     , glue = {"com.epam.jdi.bdd", "cucumberTests"}
-    //, tags = {"@form"}
+//    , tags = {"@form"}
 )
 public class TestRunner {
     @BeforeClass
@@ -27,6 +28,7 @@ public class TestRunner {
     }
     @AfterClass
     public static void shutDown() {
-        killAllSeleniumDrivers();
+//        killAllSeleniumDrivers();
+        WebDriverFactory.quit();
     }
 }
