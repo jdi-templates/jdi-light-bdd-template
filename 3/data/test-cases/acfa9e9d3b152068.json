@@ -1,0 +1,203 @@
+{
+  "uid" : "acfa9e9d3b152068",
+  "name" : "json based contacts page",
+  "fullName" : "JsonBasedPage: json based contacts page",
+  "historyId" : "1b69388664693252ac985690a47b0cc5",
+  "time" : {
+    "start" : 1630406178516,
+    "stop" : 1630406178741,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When  I open \"Contacts Page\" page",
+      "time" : {
+        "start" : 1630406178517,
+        "stop" : 1630406178715,
+        "duration" : 198
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+        "time" : {
+          "start" : 1630406178518,
+          "stop" : 1630406178715,
+          "duration" : 197
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+          "time" : {
+            "start" : 1630406178525,
+            "stop" : 1630406178715,
+            "duration" : 190
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html)",
+            "time" : {
+              "start" : 1630406178534,
+              "stop" : 1630406178707,
+              "duration" : 173
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          }, {
+            "name" : "Check that '' is opened (url CONTAINS '/contacts.html'; title NONE '')",
+            "time" : {
+              "start" : 1630406178708,
+              "stop" : 1630406178714,
+              "duration" : 6
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "fc0eb272588c96fc",
+          "name" : "Details",
+          "source" : "fc0eb272588c96fc.html",
+          "type" : "text/plain",
+          "size" : 132
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Contacts Page\" page is opened",
+      "time" : {
+        "start" : 1630406178715,
+        "stop" : 1630406178741,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened",
+        "time" : {
+          "start" : 1630406178733,
+          "stop" : 1630406178741,
+          "duration" : 8
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "JsonBasedPage"
+  }, {
+    "name" : "story",
+    "value" : "json based contacts page"
+  }, {
+    "name" : "tag",
+    "value" : "jsonpages"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4335@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "JsonBasedPage"
+  }, {
+    "name" : "suite",
+    "value" : "JsonBasedPage"
+  }, {
+    "name" : "testClass",
+    "value" : "json based contacts page"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7d3e338bd0ac6e15",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/7d3e338bd0ac6e15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405713955,
+          "stop" : 1630405714208,
+          "duration" : 253
+        }
+      } ]
+    },
+    "tags" : [ "jsonpages" ]
+  },
+  "source" : "acfa9e9d3b152068.json",
+  "parameterValues" : [ ]
+}

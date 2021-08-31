@@ -1,0 +1,215 @@
+{
+  "uid" : "633476f7fe764fce",
+  "name" : "value element",
+  "fullName" : "TestsWithName: value element",
+  "historyId" : "8c6e94c882e6337eebe7a73386b0c1fb",
+  "time" : {
+    "start" : 1630406282427,
+    "stop" : 1630406282777,
+    "duration" : 350
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630406282427,
+        "stop" : 1630406282440,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630406282428,
+          "stop" : 1630406282440,
+          "duration" : 12
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630406282433,
+            "stop" : 1630406282439,
+            "duration" : 6
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "7ee6478b5bd6f1",
+          "name" : "Details",
+          "source" : "7ee6478b5bd6f1.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"[value*='Red Button']\" text equals to \"Big Red Button-Input\"",
+      "time" : {
+        "start" : 1630406282440,
+        "stop" : 1630406282777,
+        "duration" : 337
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '[value*='Red Button']' text is 'Big Red Button-Input'",
+        "time" : {
+          "start" : 1630406282441,
+          "stop" : 1630406282777,
+          "duration" : 336
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that '[value*='Red Button']' text is \"Big Red Button-Input\"",
+          "time" : {
+            "start" : 1630406282449,
+            "stop" : 1630406282776,
+            "duration" : 327
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Get '[value*='Red Button']' text",
+            "time" : {
+              "start" : 1630406282451,
+              "stop" : 1630406282776,
+              "duration" : 325
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "5bd78e637840ca0",
+              "name" : "Actual result",
+              "source" : "5bd78e637840ca0.html",
+              "type" : "text/plain",
+              "size" : 20
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "4bc4579e53ff2492",
+          "name" : "Details",
+          "source" : "4bc4579e53ff2492.html",
+          "type" : "text/plain",
+          "size" : 51
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "value element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4335@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "value element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c75cda229f90363",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/c75cda229f90363",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405817494,
+          "stop" : 1630405817768,
+          "duration" : 274
+        }
+      } ]
+    },
+    "tags" : [ "names" ]
+  },
+  "source" : "633476f7fe764fce.json",
+  "parameterValues" : [ ]
+}

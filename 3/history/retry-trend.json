@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 61,
+    "retry" : 0
+  }
+}, {
   "data" : {
     "run" : 0,
     "retry" : 0

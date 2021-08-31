@@ -1,0 +1,293 @@
+{
+  "uid" : "aa5f65e88a1493ff",
+  "name" : "uncheck element",
+  "fullName" : "TestsWithLocators: uncheck element",
+  "historyId" : "c5216747563eaa253071a600040f8087",
+  "time" : {
+    "start" : 1630406203276,
+    "stop" : 1630406204497,
+    "duration" : 1221
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Page with url \"https://jdi-testing.github.io/jdi-light/html5.html\" openned",
+      "time" : {
+        "start" : 1630406203276,
+        "stop" : 1630406203436,
+        "duration" : 160
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630406203277,
+          "stop" : 1630406203435,
+          "duration" : 158
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630406203282,
+            "stop" : 1630406203435,
+            "duration" : 153
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "54d9cda67da7824",
+          "name" : "Details",
+          "source" : "54d9cda67da7824.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  uncheck \"#accept-conditions\"",
+      "time" : {
+        "start" : 1630406203436,
+        "stop" : 1630406204121,
+        "duration" : 685
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Uncheck '#accept-conditions'",
+        "time" : {
+          "start" : 1630406203438,
+          "stop" : 1630406204121,
+          "duration" : 683
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is selected",
+          "time" : {
+            "start" : 1630406203461,
+            "stop" : 1630406203566,
+            "duration" : 105
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "aa3d60ebf0a03080",
+            "name" : "Actual result",
+            "source" : "aa3d60ebf0a03080.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "Click on '#accept-conditions'",
+          "time" : {
+            "start" : 1630406203567,
+            "stop" : 1630406204121,
+            "duration" : 554
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that '#accept-conditions' is disabled",
+            "time" : {
+              "start" : 1630406203573,
+              "stop" : 1630406203929,
+              "duration" : 356
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "148513195122fc7e",
+              "name" : "Actual result",
+              "source" : "148513195122fc7e.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "a19adf08f85b398",
+          "name" : "Details",
+          "source" : "a19adf08f85b398.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 3,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"#accept-conditions\" is deselected",
+      "time" : {
+        "start" : 1630406204122,
+        "stop" : 1630406204497,
+        "duration" : 375
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '#accept-conditions' is deselected",
+        "time" : {
+          "start" : 1630406204123,
+          "stop" : 1630406204497,
+          "duration" : 374
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is deselected",
+          "time" : {
+            "start" : 1630406204134,
+            "stop" : 1630406204496,
+            "duration" : 362
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b4d0617a90ab3d49",
+            "name" : "Actual result",
+            "source" : "b4d0617a90ab3d49.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "399e800d24a818ed",
+          "name" : "Details",
+          "source" : "399e800d24a818ed.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "uncheck element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4335@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "uncheck element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "949c96ec2a3fee37",
+        "reportUrl" : "https://jdi-templates.github.io/jdi-light-bdd-template/3//#testresult/949c96ec2a3fee37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630405738395,
+          "stop" : 1630405739479,
+          "duration" : 1084
+        }
+      } ]
+    },
+    "tags" : [ "locators" ]
+  },
+  "source" : "aa5f65e88a1493ff.json",
+  "parameterValues" : [ ]
+}
