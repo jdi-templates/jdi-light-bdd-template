@@ -1,0 +1,180 @@
+{
+  "uid" : "d339bcdb50bc2b55",
+  "name" : "isDisabled element",
+  "fullName" : "TestsWithName: isDisabled element",
+  "historyId" : "f4765d0349c2fd43c4e144dd712b2f7d",
+  "time" : {
+    "start" : 1630510129499,
+    "stop" : 1630510129730,
+    "duration" : 231
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630510129499,
+        "stop" : 1630510129509,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630510129500,
+          "stop" : 1630510129509,
+          "duration" : 9
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630510129505,
+            "stop" : 1630510129509,
+            "duration" : 4
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "3336c994562206d5",
+          "name" : "Details",
+          "source" : "3336c994562206d5.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Disabled Name\" is disabled",
+      "time" : {
+        "start" : 1630510129509,
+        "stop" : 1630510129729,
+        "duration" : 220
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that 'Disabled Name' is disabled",
+        "time" : {
+          "start" : 1630510129510,
+          "stop" : 1630510129729,
+          "duration" : 219
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that 'Disabled Name' is enabled",
+          "time" : {
+            "start" : 1630510129514,
+            "stop" : 1630510129729,
+            "duration" : 215
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "ed3225e330350d2e",
+            "name" : "Actual result",
+            "source" : "ed3225e330350d2e.html",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "35233d8e1ed22c50",
+          "name" : "Details",
+          "source" : "35233d8e1ed22c50.html",
+          "type" : "text/plain",
+          "size" : 37
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "isDisabled element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az234-207"
+  }, {
+    "name" : "thread",
+    "value" : "4292@fv-az234-207.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "isDisabled element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "names" ]
+  },
+  "source" : "d339bcdb50bc2b55.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,273 @@
+{
+  "uid" : "a81cab97516652b7",
+  "name" : "uncheck element",
+  "fullName" : "TestsWithName: uncheck element",
+  "historyId" : "f3bd8fefe1f1b45e341c9649dae614a1",
+  "time" : {
+    "start" : 1630510126207,
+    "stop" : 1630510127149,
+    "duration" : 942
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630510126207,
+        "stop" : 1630510126217,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630510126207,
+          "stop" : 1630510126217,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630510126212,
+            "stop" : 1630510126217,
+            "duration" : 5
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "d1ae0ab2eb3c3abc",
+          "name" : "Details",
+          "source" : "d1ae0ab2eb3c3abc.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  uncheck \"Accept Conditions\"",
+      "time" : {
+        "start" : 1630510126217,
+        "stop" : 1630510126779,
+        "duration" : 562
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Uncheck 'Accept Conditions'",
+        "time" : {
+          "start" : 1630510126218,
+          "stop" : 1630510126778,
+          "duration" : 560
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that 'Accept Conditions' is selected",
+          "time" : {
+            "start" : 1630510126225,
+            "stop" : 1630510126301,
+            "duration" : 76
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "d43c28bd9102657f",
+            "name" : "Actual result",
+            "source" : "d43c28bd9102657f.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "Click on 'Accept Conditions'",
+          "time" : {
+            "start" : 1630510126302,
+            "stop" : 1630510126778,
+            "duration" : 476
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that 'Accept Conditions' is disabled",
+            "time" : {
+              "start" : 1630510126306,
+              "stop" : 1630510126631,
+              "duration" : 325
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d02fce8e491519ee",
+              "name" : "Actual result",
+              "source" : "d02fce8e491519ee.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "cfc6af4ffe25a836",
+          "name" : "Details",
+          "source" : "cfc6af4ffe25a836.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 3,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Accept Conditions\" is deselected",
+      "time" : {
+        "start" : 1630510126779,
+        "stop" : 1630510127149,
+        "duration" : 370
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that 'Accept Conditions' is deselected",
+        "time" : {
+          "start" : 1630510126780,
+          "stop" : 1630510127149,
+          "duration" : 369
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that 'Accept Conditions' is deselected",
+          "time" : {
+            "start" : 1630510126790,
+            "stop" : 1630510127149,
+            "duration" : 359
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "f36f831b81b454ae",
+            "name" : "Actual result",
+            "source" : "f36f831b81b454ae.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "c716d5cfa46454d",
+          "name" : "Details",
+          "source" : "c716d5cfa46454d.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "uncheck element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az234-207"
+  }, {
+    "name" : "thread",
+    "value" : "4292@fv-az234-207.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "uncheck element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "names" ]
+  },
+  "source" : "a81cab97516652b7.json",
+  "parameterValues" : [ ]
+}

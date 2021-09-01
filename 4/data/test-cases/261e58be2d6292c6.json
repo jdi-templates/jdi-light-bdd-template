@@ -1,0 +1,231 @@
+{
+  "uid" : "261e58be2d6292c6",
+  "name" : "input element",
+  "fullName" : "TestsWithLocators: input element",
+  "historyId" : "aba036cf181938a55cab57292193c567",
+  "time" : {
+    "start" : 1630510106718,
+    "stop" : 1630510107428,
+    "duration" : 710
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I open url \"https://jdi-testing.github.io/jdi-light/html5.html\"",
+      "time" : {
+        "start" : 1630510106718,
+        "stop" : 1630510106878,
+        "duration" : 160
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630510106719,
+          "stop" : 1630510106878,
+          "duration" : 159
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630510106723,
+            "stop" : 1630510106878,
+            "duration" : 155
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "704aec72838d87",
+          "name" : "Details",
+          "source" : "704aec72838d87.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  I input \"simple 1234\" in \"#your-name\"",
+      "time" : {
+        "start" : 1630510106878,
+        "stop" : 1630510107197,
+        "duration" : 319
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Input 'simple 1234' in '#your-name'",
+        "time" : {
+          "start" : 1630510106880,
+          "stop" : 1630510107197,
+          "duration" : 317
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input 'simple 1234' in '#your-name'",
+          "time" : {
+            "start" : 1630510107007,
+            "stop" : 1630510107197,
+            "duration" : 190
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "ad98fbba31937785",
+          "name" : "Details",
+          "source" : "ad98fbba31937785.html",
+          "type" : "text/plain",
+          "size" : 29
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"#your-name\" text matches to \"\\w{6} \\d{4}\"",
+      "time" : {
+        "start" : 1630510107198,
+        "stop" : 1630510107428,
+        "duration" : 230
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '#your-name' text a string matching the pattern 'w{6} d{4}'",
+        "time" : {
+          "start" : 1630510107202,
+          "stop" : 1630510107428,
+          "duration" : 226
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Get '#your-name' text",
+          "time" : {
+            "start" : 1630510107217,
+            "stop" : 1630510107427,
+            "duration" : 210
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "3abb43e18e04a7bd",
+            "name" : "Actual result",
+            "source" : "3abb43e18e04a7bd.html",
+            "type" : "text/plain",
+            "size" : 11
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "ee4312e18ba2281c",
+          "name" : "Details",
+          "source" : "ee4312e18ba2281c.html",
+          "type" : "text/plain",
+          "size" : 29
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "input element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az234-207"
+  }, {
+    "name" : "thread",
+    "value" : "4292@fv-az234-207.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "input element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "locators" ]
+  },
+  "source" : "261e58be2d6292c6.json",
+  "parameterValues" : [ ]
+}
