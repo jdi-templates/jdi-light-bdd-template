@@ -1,610 +1,610 @@
 [ {
-  "uid" : "e9b3182e73ec912b",
-  "name" : "jsClick element",
+  "uid" : "a588a42d9583ecc9",
+  "name" : "click element",
   "time" : {
-    "start" : 1630509588340,
-    "stop" : 1630509588892,
-    "duration" : 552
+    "start" : 1630509774973,
+    "stop" : 1630509775489,
+    "duration" : 516
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2f7736f6ae282f2e",
-  "name" : "getAttribute element",
-  "time" : {
-    "start" : 1630509574546,
-    "stop" : 1630509574773,
-    "duration" : 227
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e04558329fcf8a9a",
-  "name" : "placeholder element",
-  "time" : {
-    "start" : 1630509592083,
-    "stop" : 1630509592188,
-    "duration" : 105
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "158e6f613ec68327",
-  "name" : "setText element",
-  "time" : {
-    "start" : 1630509586498,
-    "stop" : 1630509587745,
-    "duration" : 1247
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "51d9defdd6a79045",
-  "name" : "getAttribute element",
-  "time" : {
-    "start" : 1630509592965,
-    "stop" : 1630509593068,
-    "duration" : 103
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3711673fcddaddd4",
-  "name" : "labelText",
-  "time" : {
-    "start" : 1630509606359,
-    "stop" : 1630509606572,
-    "duration" : 213
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ffb44128da8ee879",
-  "name" : "clear element",
-  "time" : {
-    "start" : 1630509608948,
-    "stop" : 1630509609831,
-    "duration" : 883
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a5474d43bd102614",
-  "name" : "check element",
-  "time" : {
-    "start" : 1630509607156,
-    "stop" : 1630509608050,
-    "duration" : 894
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "965b11c0dc7d1fc1",
-  "name" : "jsClick element",
-  "time" : {
-    "start" : 1630509605564,
-    "stop" : 1630509606045,
-    "duration" : 481
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2d7c84dd7f25a983",
-  "name" : "fill Contact Form from json",
-  "time" : {
-    "start" : 1630509558778,
-    "stop" : 1630509563298,
-    "duration" : 4520
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bd03b8d819db8adf",
-  "name" : "isDisabled element",
-  "time" : {
-    "start" : 1630509611211,
-    "stop" : 1630509611488,
-    "duration" : 277
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d3f89998821d7032",
-  "name" : "css element",
-  "time" : {
-    "start" : 1630509573037,
-    "stop" : 1630509573295,
-    "duration" : 258
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "651685a4aa1ea54a",
-  "name" : "getText element",
-  "time" : {
-    "start" : 1630509592832,
-    "stop" : 1630509592964,
-    "duration" : 132
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "463a24fcbecd1706",
-  "name" : "isEnabled element",
-  "time" : {
-    "start" : 1630509610852,
-    "stop" : 1630509611211,
-    "duration" : 359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef3398d387f1d05f",
-  "name" : "getValue element",
-  "time" : {
-    "start" : 1630509573548,
-    "stop" : 1630509574221,
-    "duration" : 673
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5a36f44d30f54b53",
-  "name" : "labelText",
-  "time" : {
-    "start" : 1630509589260,
-    "stop" : 1630509589476,
-    "duration" : 216
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d238323787073c5d",
-  "name" : "css element",
-  "time" : {
-    "start" : 1630509591981,
-    "stop" : 1630509592082,
-    "duration" : 101
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "948ca47af88c12ea",
-  "name" : "clear element",
-  "time" : {
-    "start" : 1630509591121,
-    "stop" : 1630509591980,
-    "duration" : 859
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2ec26c7a1aa102e0",
-  "name" : "value element",
-  "time" : {
-    "start" : 1630509588893,
-    "stop" : 1630509589258,
-    "duration" : 365
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8280e0a9a1e7e930",
+  "uid" : "7d2c53f299efec6e",
   "name" : "json based bootstrap page",
   "time" : {
-    "start" : 1630509566197,
-    "stop" : 1630509567369,
-    "duration" : 1172
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dc0c9ab59e5d6dc6",
-  "name" : "placeholder element",
-  "time" : {
-    "start" : 1630509573299,
-    "stop" : 1630509573546,
-    "duration" : 247
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d070972cd0afee97",
-  "name" : "isDisabled element",
-  "time" : {
-    "start" : 1630509575197,
-    "stop" : 1630509575628,
-    "duration" : 431
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b5b108616c5919ef",
-  "name" : "setText element",
-  "time" : {
-    "start" : 1630509604037,
-    "stop" : 1630509605026,
-    "duration" : 989
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8d515df3c89ec0d1",
-  "name" : "uncheck element",
-  "time" : {
-    "start" : 1630509590213,
-    "stop" : 1630509591120,
-    "duration" : 907
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8a602ac0ea1be15",
-  "name" : "click element",
-  "time" : {
-    "start" : 1630509605027,
-    "stop" : 1630509605563,
-    "duration" : 536
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8c2b3a06dd42bc7",
-  "name" : "uncheck element",
-  "time" : {
-    "start" : 1630509608051,
-    "stop" : 1630509608947,
-    "duration" : 896
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "430c39851de8850b",
-  "name" : "click element",
-  "time" : {
-    "start" : 1630509587747,
-    "stop" : 1630509588338,
-    "duration" : 591
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2bf23f3a7ae2d5f3",
-  "name" : "json based contacts page",
-  "time" : {
-    "start" : 1630509567370,
-    "stop" : 1630509567596,
-    "duration" : 226
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4e32275c6867b803",
-  "name" : "check element",
-  "time" : {
-    "start" : 1630509590020,
-    "stop" : 1630509590212,
-    "duration" : 192
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4b626d791e277583",
-  "name" : "getValue element",
-  "time" : {
-    "start" : 1630509610038,
-    "stop" : 1630509610575,
-    "duration" : 537
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef202a1118f60acd",
-  "name" : "isHidden element",
-  "time" : {
-    "start" : 1630509593612,
-    "stop" : 1630509593759,
-    "duration" : 147
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5206600c89a88c77",
-  "name" : "element does not appear",
-  "time" : {
-    "start" : 1630509611639,
-    "stop" : 1630509621656,
-    "duration" : 10017
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "95269afcadfa4ea1",
-  "name" : "labelText",
-  "time" : {
-    "start" : 1630509569436,
-    "stop" : 1630509569812,
-    "duration" : 376
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "91ea506379a59094",
-  "name" : "click element",
-  "time" : {
-    "start" : 1630509567598,
-    "stop" : 1630509568394,
-    "duration" : 796
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c6b409da10c14dd6",
-  "name" : "element does not appear",
-  "time" : {
-    "start" : 1630509593760,
-    "stop" : 1630509603876,
-    "duration" : 10116
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eae81b913922a955",
-  "name" : "isDisplayed element",
-  "time" : {
-    "start" : 1630509621657,
-    "stop" : 1630509621759,
-    "duration" : 102
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8b7a9db41974d59c",
-  "name" : "isEnabled element",
-  "time" : {
-    "start" : 1630509593069,
-    "stop" : 1630509593375,
-    "duration" : 306
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1927d138c17028f9",
-  "name" : "isDisabled element",
-  "time" : {
-    "start" : 1630509593379,
-    "stop" : 1630509593611,
-    "duration" : 232
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e42a89339eb1a149",
-  "name" : "getText element",
-  "time" : {
-    "start" : 1630509574222,
-    "stop" : 1630509574543,
-    "duration" : 321
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7a7f6a147e3f64d1",
-  "name" : "jsClick element",
-  "time" : {
-    "start" : 1630509568397,
-    "stop" : 1630509568964,
-    "duration" : 567
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "62457e817993ddfd",
-  "name" : "element does not appear",
-  "time" : {
-    "start" : 1630509575942,
-    "stop" : 1630509586237,
-    "duration" : 10295
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "35926db09ddbd79e",
-  "name" : "input element",
-  "time" : {
-    "start" : 1630509606573,
-    "stop" : 1630509607155,
-    "duration" : 582
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5136886b84f0ea24",
-  "name" : "isHidden element",
-  "time" : {
-    "start" : 1630509611488,
-    "stop" : 1630509611638,
-    "duration" : 150
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c077df8f04b5f46a",
-  "name" : "isEnabled element",
-  "time" : {
-    "start" : 1630509574774,
-    "stop" : 1630509575196,
-    "duration" : 422
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2df93ef525d149e0",
-  "name" : "input element",
-  "time" : {
-    "start" : 1630509569813,
-    "stop" : 1630509570656,
-    "duration" : 843
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "94591a73763047fc",
-  "name" : "value element",
-  "time" : {
-    "start" : 1630509606046,
-    "stop" : 1630509606358,
-    "duration" : 312
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c409a67500be173",
-  "name" : "isHidden element",
-  "time" : {
-    "start" : 1630509575629,
-    "stop" : 1630509575940,
-    "duration" : 311
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d0651d94fd588088",
-  "name" : "placeholder element",
-  "time" : {
-    "start" : 1630509609931,
-    "stop" : 1630509610037,
-    "duration" : 106
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c0c1620425ed2d7f",
-  "name" : "getValue element",
-  "time" : {
-    "start" : 1630509592189,
-    "stop" : 1630509592831,
-    "duration" : 642
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8df171ec7c39c594",
-  "name" : "fill Contact Form from table",
-  "time" : {
-    "start" : 1630509563369,
-    "stop" : 1630509566194,
-    "duration" : 2825
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c1414c0fd806d530",
-  "name" : "getText element",
-  "time" : {
-    "start" : 1630509610576,
-    "stop" : 1630509610745,
-    "duration" : 169
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a5e99e1ce3f291ec",
-  "name" : "check element",
-  "time" : {
-    "start" : 1630509570658,
-    "stop" : 1630509570893,
-    "duration" : 235
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d698567922cc974a",
-  "name" : "clear element",
-  "time" : {
-    "start" : 1630509571909,
-    "stop" : 1630509573036,
+    "start" : 1630509753848,
+    "stop" : 1630509754975,
     "duration" : 1127
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "380af59ca36fff71",
-  "name" : "value element",
-  "time" : {
-    "start" : 1630509568966,
-    "stop" : 1630509569435,
-    "duration" : 469
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "530c91d1a904a61",
+  "uid" : "d0cdb619f21fb3a0",
   "name" : "input element",
   "time" : {
-    "start" : 1630509589476,
-    "stop" : 1630509590019,
-    "duration" : 543
+    "start" : 1630509757300,
+    "stop" : 1630509758068,
+    "duration" : 768
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f07a6f166821532b",
-  "name" : "css element",
+  "uid" : "b4936ee910ab6ec8",
+  "name" : "isEnabled element",
   "time" : {
-    "start" : 1630509609832,
-    "stop" : 1630509609930,
-    "duration" : 98
+    "start" : 1630509798031,
+    "stop" : 1630509798370,
+    "duration" : 339
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "98b9ae2240edbad0",
-  "name" : "uncheck element",
+  "uid" : "4e61c0d958a0003b",
+  "name" : "isDisplayed element",
   "time" : {
-    "start" : 1630509570894,
-    "stop" : 1630509571908,
-    "duration" : 1014
+    "start" : 1630509808771,
+    "stop" : 1630509808873,
+    "duration" : 102
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "22072e7ea44b6eef",
+  "uid" : "f94acaea8bfcddf1",
   "name" : "getAttribute element",
   "time" : {
-    "start" : 1630509610746,
-    "stop" : 1630509610850,
-    "duration" : 104
+    "start" : 1630509761778,
+    "stop" : 1630509762038,
+    "duration" : 260
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "469adae445debb7f",
-  "name" : "isDisplayed element",
+  "uid" : "ccbc7d663f3f9195",
+  "name" : "input element",
   "time" : {
-    "start" : 1630509603877,
-    "stop" : 1630509604036,
-    "duration" : 159
+    "start" : 1630509776632,
+    "stop" : 1630509777222,
+    "duration" : 590
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f498e25d7bd92f88",
+  "uid" : "b8491507c6ee8cc",
   "name" : "setText element",
   "time" : {
-    "start" : 1630509621760,
-    "stop" : 1630509622586,
-    "duration" : 826
+    "start" : 1630509791337,
+    "stop" : 1630509792200,
+    "duration" : 863
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ecc098c05049bef5",
+  "uid" : "a691a4ded1442051",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630509761444,
+    "stop" : 1630509761774,
+    "duration" : 330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0e00227290a732e",
+  "name" : "click element",
+  "time" : {
+    "start" : 1630509792201,
+    "stop" : 1630509792769,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "525da209cb36349c",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630509792770,
+    "stop" : 1630509793254,
+    "duration" : 484
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68dd15e29f4393d",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630509797794,
+    "stop" : 1630509797933,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4bd92d956f0dd5a",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630509760879,
+    "stop" : 1630509761443,
+    "duration" : 564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c7ea3c31281a6b3",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630509778375,
+    "stop" : 1630509779293,
+    "duration" : 918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3f907492e8b8fa5",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630509798371,
+    "stop" : 1630509798596,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "392384eccdd28937",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630509776383,
+    "stop" : 1630509776631,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81bc5497cc223af0",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630509794332,
+    "stop" : 1630509795323,
+    "duration" : 991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ba2d5175c08953",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630509762849,
+    "stop" : 1630509763172,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f9e24197f4f7d8",
+  "name" : "fill Contact Form from json",
+  "time" : {
+    "start" : 1630509746968,
+    "stop" : 1630509751118,
+    "duration" : 4150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a537184f230e01a0",
   "name" : "isDisplayed element",
   "time" : {
-    "start" : 1630509586238,
-    "stop" : 1630509586497,
-    "duration" : 259
+    "start" : 1630509791188,
+    "stop" : 1630509791336,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "847580f0919a2bb6",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630509760365,
+    "stop" : 1630509760625,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37055a9aa1923743",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630509793256,
+    "stop" : 1630509793557,
+    "duration" : 301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50d1c1094074c0bc",
+  "name" : "fill Contact Form from table",
+  "time" : {
+    "start" : 1630509751190,
+    "stop" : 1630509753845,
+    "duration" : 2655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61466a473ebc4fff",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630509781053,
+    "stop" : 1630509791187,
+    "duration" : 10134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eef08ad5f3e41434",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630509756568,
+    "stop" : 1630509756998,
+    "duration" : 430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd7845d96e02a6f1",
+  "name" : "setText element",
+  "time" : {
+    "start" : 1630509773817,
+    "stop" : 1630509774972,
+    "duration" : 1155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f98e8134951f3126",
+  "name" : "isEnabled element",
+  "time" : {
+    "start" : 1630509780302,
+    "stop" : 1630509780646,
+    "duration" : 344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39e81e553750d31c",
+  "name" : "isEnabled element",
+  "time" : {
+    "start" : 1630509762039,
+    "stop" : 1630509762471,
+    "duration" : 432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e51475d4014a6f6",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630509779397,
+    "stop" : 1630509779494,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff84ed4d4ab74323",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630509762472,
+    "stop" : 1630509762847,
+    "duration" : 375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92f343f223e1e980",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630509798736,
+    "stop" : 1630509808770,
+    "duration" : 10034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85bd58a1017a45e2",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630509780900,
+    "stop" : 1630509781052,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e96bb0d6a398cac3",
+  "name" : "click element",
+  "time" : {
+    "start" : 1630509755229,
+    "stop" : 1630509755920,
+    "duration" : 691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5679cf653d85a3c7",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630509775490,
+    "stop" : 1630509776052,
+    "duration" : 562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a7dcbe7bf0006e1",
+  "name" : "input element",
+  "time" : {
+    "start" : 1630509793813,
+    "stop" : 1630509794331,
+    "duration" : 518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8d7815984c877a",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630509758069,
+    "stop" : 1630509758367,
+    "duration" : 298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fb324e163da35a7",
+  "name" : "isDisplayed element",
+  "time" : {
+    "start" : 1630509773514,
+    "stop" : 1630509773816,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a7d4cfa31fbaac7",
+  "name" : "check element",
+  "time" : {
+    "start" : 1630509777223,
+    "stop" : 1630509777416,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bbd9881852a9ce6",
+  "name" : "getAttribute element",
+  "time" : {
+    "start" : 1630509797934,
+    "stop" : 1630509798029,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce445de9c3fa7853",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630509797188,
+    "stop" : 1630509797280,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c8cf001ccc74069",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630509756999,
+    "stop" : 1630509757298,
+    "duration" : 299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "189ce2b70e8f5cfd",
+  "name" : "getAttribute element",
+  "time" : {
+    "start" : 1630509780201,
+    "stop" : 1630509780301,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4893b9ef38d62924",
+  "name" : "isDisabled element",
+  "time" : {
+    "start" : 1630509780649,
+    "stop" : 1630509780900,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "495dc129aa23715a",
+  "name" : "json based contacts page",
+  "time" : {
+    "start" : 1630509754976,
+    "stop" : 1630509755228,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e737fe577bead1c",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630509758368,
+    "stop" : 1630509759310,
+    "duration" : 942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2111110a9d0858e5",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630509795324,
+    "stop" : 1630509796155,
+    "duration" : 831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ca1711011c519dd",
+  "name" : "jsClick element",
+  "time" : {
+    "start" : 1630509755921,
+    "stop" : 1630509756567,
+    "duration" : 646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1af33a87bb28a97e",
+  "name" : "labelText",
+  "time" : {
+    "start" : 1630509793558,
+    "stop" : 1630509793812,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf85d5c9cff5df98",
+  "name" : "uncheck element",
+  "time" : {
+    "start" : 1630509777417,
+    "stop" : 1630509778373,
+    "duration" : 956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9dcec2ee02e3ecf",
+  "name" : "setText element",
+  "time" : {
+    "start" : 1630509808874,
+    "stop" : 1630509809810,
+    "duration" : 936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8db26015396e8d9b",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630509759311,
+    "stop" : 1630509760364,
+    "duration" : 1053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cee61e61c19bdd0",
+  "name" : "getText element",
+  "time" : {
+    "start" : 1630509780078,
+    "stop" : 1630509780200,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f66dfd296adbe330",
+  "name" : "clear element",
+  "time" : {
+    "start" : 1630509796157,
+    "stop" : 1630509797090,
+    "duration" : 933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7f75fd7ac8a2523",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630509797281,
+    "stop" : 1630509797793,
+    "duration" : 512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b77235b7d32ab712",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630509779293,
+    "stop" : 1630509779396,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38f265cd8acd25ad",
+  "name" : "value element",
+  "time" : {
+    "start" : 1630509776055,
+    "stop" : 1630509776378,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95973e305bd540ed",
+  "name" : "isHidden element",
+  "time" : {
+    "start" : 1630509798597,
+    "stop" : 1630509798735,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62a4ec56a9deec1a",
+  "name" : "css element",
+  "time" : {
+    "start" : 1630509797091,
+    "stop" : 1630509797186,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e9eee709498be3a",
+  "name" : "placeholder element",
+  "time" : {
+    "start" : 1630509760626,
+    "stop" : 1630509760876,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afba2ce14ce5e71e",
+  "name" : "element does not appear",
+  "time" : {
+    "start" : 1630509763173,
+    "stop" : 1630509773512,
+    "duration" : 10339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e1d3344831e6d5d",
+  "name" : "getValue element",
+  "time" : {
+    "start" : 1630509779495,
+    "stop" : 1630509780077,
+    "duration" : 582
   },
   "status" : "passed",
   "severity" : "normal"
