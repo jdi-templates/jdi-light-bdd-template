@@ -1,0 +1,246 @@
+{
+  "uid" : "e4b8049489e2832e",
+  "name" : "getValue element",
+  "fullName" : "TestsWithName: getValue element",
+  "historyId" : "a389061608be69c0275ef875e3e1b666",
+  "time" : {
+    "start" : 1630509407767,
+    "stop" : 1630509408293,
+    "duration" : 526
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630509407767,
+        "stop" : 1630509407774,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630509407767,
+          "stop" : 1630509407774,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630509407771,
+            "stop" : 1630509407774,
+            "duration" : 3
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "61ba2027449d578d",
+          "name" : "Details",
+          "source" : "61ba2027449d578d.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  input \"simple text\" in \"Your Name\"",
+      "time" : {
+        "start" : 1630509407774,
+        "stop" : 1630509408029,
+        "duration" : 255
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Input 'simple text' in 'Your Name'",
+        "time" : {
+          "start" : 1630509407775,
+          "stop" : 1630509408029,
+          "duration" : 254
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Input 'simple text' in 'Your Name'",
+          "time" : {
+            "start" : 1630509407872,
+            "stop" : 1630509408029,
+            "duration" : 157
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "d7cf38a7b8400959",
+          "name" : "Details",
+          "source" : "d7cf38a7b8400959.html",
+          "type" : "text/plain",
+          "size" : 29
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Your Name\" text equals to \"simple text\"",
+      "time" : {
+        "start" : 1630509408030,
+        "stop" : 1630509408293,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that 'Your Name' text is 'simple text'",
+        "time" : {
+          "start" : 1630509408030,
+          "stop" : 1630509408293,
+          "duration" : 263
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that 'Your Name' text is \"simple text\"",
+          "time" : {
+            "start" : 1630509408034,
+            "stop" : 1630509408293,
+            "duration" : 259
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Get 'Your Name' text",
+            "time" : {
+              "start" : 1630509408035,
+              "stop" : 1630509408293,
+              "duration" : 258
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "86bdaf07dbb2ef98",
+              "name" : "Actual result",
+              "source" : "86bdaf07dbb2ef98.html",
+              "type" : "text/plain",
+              "size" : 11
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "e854538e8c378634",
+          "name" : "Details",
+          "source" : "e854538e8c378634.html",
+          "type" : "text/plain",
+          "size" : 29
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "getValue element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4401@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "getValue element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "names" ]
+  },
+  "source" : "e4b8049489e2832e.json",
+  "parameterValues" : [ ]
+}

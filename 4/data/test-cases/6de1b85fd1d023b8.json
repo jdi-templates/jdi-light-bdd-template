@@ -1,0 +1,174 @@
+{
+  "uid" : "6de1b85fd1d023b8",
+  "name" : "css element",
+  "fullName" : "TestsWithName: css element",
+  "historyId" : "34f29c90207c825fa69f60e5a6f6760e",
+  "time" : {
+    "start" : 1630509407595,
+    "stop" : 1630509407677,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630509407595,
+        "stop" : 1630509407603,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630509407595,
+          "stop" : 1630509407603,
+          "duration" : 8
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630509407599,
+            "stop" : 1630509407603,
+            "duration" : 4
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "1a7752ce6525ab72",
+          "name" : "Details",
+          "source" : "1a7752ce6525ab72.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Your Name\" css \"font-size\" equals to \"14px\"",
+      "time" : {
+        "start" : 1630509407603,
+        "stop" : 1630509407677,
+        "duration" : 74
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that 'Your Name' css 'font-size' is \"14px\"",
+        "time" : {
+          "start" : 1630509407604,
+          "stop" : 1630509407677,
+          "duration" : 73
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that 'Your Name' css 'font-size' is \"14px\"",
+          "time" : {
+            "start" : 1630509407607,
+            "stop" : 1630509407677,
+            "duration" : 70
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "602ec3a3f27a7570",
+          "name" : "Details",
+          "source" : "602ec3a3f27a7570.html",
+          "type" : "text/plain",
+          "size" : 29
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "story",
+    "value" : "css element"
+  }, {
+    "name" : "tag",
+    "value" : "names"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4401@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithName"
+  }, {
+    "name" : "testClass",
+    "value" : "css element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "names" ]
+  },
+  "source" : "6de1b85fd1d023b8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,180 @@
+{
+  "uid" : "86ecbfa00b25fd72",
+  "name" : "isDisabled element",
+  "fullName" : "TestsWithLocators: isDisabled element",
+  "historyId" : "b440d0f84fcd77450cf1ffc90361ffd",
+  "time" : {
+    "start" : 1630509391319,
+    "stop" : 1630509391681,
+    "duration" : 362
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I open url \"https://jdi-testing.github.io/jdi-light/html5.html\"",
+      "time" : {
+        "start" : 1630509391320,
+        "stop" : 1630509391436,
+        "duration" : 116
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630509391320,
+          "stop" : 1630509391436,
+          "duration" : 116
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630509391324,
+            "stop" : 1630509391436,
+            "duration" : 112
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "e61c6f222d84536c",
+          "name" : "Details",
+          "source" : "e61c6f222d84536c.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"#disabled-name\" is disabled",
+      "time" : {
+        "start" : 1630509391436,
+        "stop" : 1630509391681,
+        "duration" : 245
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '#disabled-name' is disabled",
+        "time" : {
+          "start" : 1630509391437,
+          "stop" : 1630509391681,
+          "duration" : 244
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#disabled-name' is enabled",
+          "time" : {
+            "start" : 1630509391442,
+            "stop" : 1630509391681,
+            "duration" : 239
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "fceb0e6166de723d",
+            "name" : "Actual result",
+            "source" : "fceb0e6166de723d.html",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "d0450596851985b7",
+          "name" : "Details",
+          "source" : "d0450596851985b7.html",
+          "type" : "text/plain",
+          "size" : 37
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "isDisabled element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4401@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "isDisabled element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "locators" ]
+  },
+  "source" : "86ecbfa00b25fd72.json",
+  "parameterValues" : [ ]
+}

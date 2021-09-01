@@ -1,0 +1,195 @@
+{
+  "uid" : "27e6b120acc162e5",
+  "name" : "element does not appear",
+  "fullName" : "TestsWithProperties: element does not appear",
+  "historyId" : "756bd96994c77a8e2c9a64783862997b",
+  "time" : {
+    "start" : 1630509426106,
+    "stop" : 1630509436137,
+    "duration" : 10031
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I'm on \"Html5 Page\" page",
+      "time" : {
+        "start" : 1630509426106,
+        "stop" : 1630509426113,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+        "time" : {
+          "start" : 1630509426106,
+          "stop" : 1630509426113,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "''(url=https://jdi-testing.github.io/jdi-light/html5.html) should be opened",
+          "time" : {
+            "start" : 1630509426110,
+            "stop" : 1630509426113,
+            "duration" : 3
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "fd694de8e9e09727",
+          "name" : "Details",
+          "source" : "fd694de8e9e09727.html",
+          "type" : "text/plain",
+          "size" : 126
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"Logout\" does not appear",
+      "time" : {
+        "start" : 1630509426113,
+        "stop" : 1630509436137,
+        "duration" : 10024
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '.fa-sign-out' does not appear during 10 seconds",
+        "time" : {
+          "start" : 1630509426114,
+          "stop" : 1630509436137,
+          "duration" : 10023
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that '.fa-sign-out' does not appear during 10 seconds",
+          "time" : {
+            "start" : 1630509426117,
+            "stop" : 1630509436137,
+            "duration" : 10020
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Check that '.fa-sign-out' is displayed",
+            "time" : {
+              "start" : 1630509426118,
+              "stop" : 1630509426238,
+              "duration" : 120
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "f041ae9801d88987",
+              "name" : "Actual result",
+              "source" : "f041ae9801d88987.html",
+              "type" : "text/plain",
+              "size" : 5
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "3ed1283beef4dcb5",
+          "name" : "Details",
+          "source" : "3ed1283beef4dcb5.html",
+          "type" : "text/plain",
+          "size" : 33
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithProperties"
+  }, {
+    "name" : "story",
+    "value" : "element does not appear"
+  }, {
+    "name" : "tag",
+    "value" : "properties"
+  }, {
+    "name" : "host",
+    "value" : "fv-az120-662"
+  }, {
+    "name" : "thread",
+    "value" : "4401@fv-az120-662.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithProperties"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithProperties"
+  }, {
+    "name" : "testClass",
+    "value" : "element does not appear"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "properties" ]
+  },
+  "source" : "27e6b120acc162e5.json",
+  "parameterValues" : [ ]
+}
