@@ -1,0 +1,237 @@
+{
+  "uid" : "bacb14f65e099da6",
+  "name" : "check element",
+  "fullName" : "TestsWithLocators: check element",
+  "historyId" : "8826257ed5d7a42af6278e2915de496c",
+  "time" : {
+    "start" : 1630509924963,
+    "stop" : 1630509925273,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I open url \"https://jdi-testing.github.io/jdi-light/html5.html\"",
+      "time" : {
+        "start" : 1630509924964,
+        "stop" : 1630509925083,
+        "duration" : 119
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630509924964,
+          "stop" : 1630509925083,
+          "duration" : 119
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630509924969,
+            "stop" : 1630509925083,
+            "duration" : 114
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "7badab0ec5c12d9e",
+          "name" : "Details",
+          "source" : "7badab0ec5c12d9e.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "When  check \"#accept-conditions\"",
+      "time" : {
+        "start" : 1630509925083,
+        "stop" : 1630509925191,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Check '#accept-conditions'",
+        "time" : {
+          "start" : 1630509925085,
+          "stop" : 1630509925191,
+          "duration" : 106
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is deselected",
+          "time" : {
+            "start" : 1630509925094,
+            "stop" : 1630509925191,
+            "duration" : 97
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e8352f670d2b0340",
+            "name" : "Actual result",
+            "source" : "e8352f670d2b0340.html",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "886d8a42d2e7cc3c",
+          "name" : "Details",
+          "source" : "886d8a42d2e7cc3c.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"#accept-conditions\" is selected",
+      "time" : {
+        "start" : 1630509925192,
+        "stop" : 1630509925273,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '#accept-conditions' is selected",
+        "time" : {
+          "start" : 1630509925193,
+          "stop" : 1630509925273,
+          "duration" : 80
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Check that '#accept-conditions' is selected",
+          "time" : {
+            "start" : 1630509925200,
+            "stop" : 1630509925273,
+            "duration" : 73
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "3eb690bfd17c0b1f",
+            "name" : "Actual result",
+            "source" : "3eb690bfd17c0b1f.html",
+            "type" : "text/plain",
+            "size" : 4
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "3f23ba3c924607a3",
+          "name" : "Details",
+          "source" : "3f23ba3c924607a3.html",
+          "type" : "text/plain",
+          "size" : 45
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "check element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az54-586"
+  }, {
+    "name" : "thread",
+    "value" : "4436@fv-az54-586.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "check element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "locators" ]
+  },
+  "source" : "bacb14f65e099da6.json",
+  "parameterValues" : [ ]
+}

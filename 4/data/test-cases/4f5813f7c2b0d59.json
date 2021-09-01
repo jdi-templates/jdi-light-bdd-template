@@ -1,0 +1,195 @@
+{
+  "uid" : "4f5813f7c2b0d59",
+  "name" : "value element",
+  "fullName" : "TestsWithLocators: value element",
+  "historyId" : "f0debaba3c8d9f5076cfce843ccae19a",
+  "time" : {
+    "start" : 1630509923377,
+    "stop" : 1630509923886,
+    "duration" : 509
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I open url \"https://jdi-testing.github.io/jdi-light/html5.html\"",
+      "time" : {
+        "start" : 1630509923378,
+        "stop" : 1630509923514,
+        "duration" : 136
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+        "time" : {
+          "start" : 1630509923378,
+          "stop" : 1630509923514,
+          "duration" : 136
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Open ''(url=https://jdi-testing.github.io/jdi-light/html5.html)",
+          "time" : {
+            "start" : 1630509923385,
+            "stop" : 1630509923514,
+            "duration" : 129
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "c29a828cabcaab2c",
+          "name" : "Details",
+          "source" : "c29a828cabcaab2c.html",
+          "type" : "text/plain",
+          "size" : 165
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Then  the \"[value*='Red Button']\" text equals to \"Big Red Button-Input\"",
+      "time" : {
+        "start" : 1630509923515,
+        "stop" : 1630509923886,
+        "duration" : 371
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Assert that '[value*='Red Button']' text is 'Big Red Button-Input'",
+        "time" : {
+          "start" : 1630509923519,
+          "stop" : 1630509923885,
+          "duration" : 366
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "Assert that '[value*='Red Button']' text is \"Big Red Button-Input\"",
+          "time" : {
+            "start" : 1630509923531,
+            "stop" : 1630509923885,
+            "duration" : 354
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "Get '[value*='Red Button']' text",
+            "time" : {
+              "start" : 1630509923534,
+              "stop" : 1630509923884,
+              "duration" : 350
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "4701292ade905fa7",
+              "name" : "Actual result",
+              "source" : "4701292ade905fa7.html",
+              "type" : "text/plain",
+              "size" : 20
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "d3e001c74f6d549c",
+          "name" : "Details",
+          "source" : "d3e001c74f6d549c.html",
+          "type" : "text/plain",
+          "size" : 51
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "story",
+    "value" : "value element"
+  }, {
+    "name" : "tag",
+    "value" : "locators"
+  }, {
+    "name" : "host",
+    "value" : "fv-az54-586"
+  }, {
+    "name" : "thread",
+    "value" : "4436@fv-az54-586.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "suite",
+    "value" : "TestsWithLocators"
+  }, {
+    "name" : "testClass",
+    "value" : "value element"
+  }, {
+    "name" : "framework",
+    "value" : "cucumberjvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "locators" ]
+  },
+  "source" : "4f5813f7c2b0d59.json",
+  "parameterValues" : [ ]
+}
