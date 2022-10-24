@@ -4,7 +4,8 @@
 name: Java CI with Maven
 env:
   ALLURE_VERSION: "2.10.0"
-
+  SUREFIRE_ARGS: "--add-opens java.base/java.lang=ALL-UNNAMED"
+  SUREFIRE_ARGS_BDD: "--add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.text=ALL-UNNAMED  --add-opens=java.desktop/java.awt.font=ALL-UNNAMED"
 on:
   push:
     branches: [ master ]
@@ -28,6 +29,13 @@ jobs:
         with:
           java-version: ${{ matrix.java }}
           java-package: jdk
+
+      - name: Set parameters for AspectJ
+        id: aspect_j_params
+        if: ${{ matrix.java > 15 }}
+        run: |
+          echo "ASPECT_ARGS=-Daspectj.args="\"$SUREFIRE_ARGS\" >> $GITHUB_ENV
+          echo "ASPECT_ARGS_BDD=-Daspectj.args="\"$SUREFIRE_ARGS_BDD\" >> $GITHUB_ENV
 
       - name: Build with Maven
         id: build

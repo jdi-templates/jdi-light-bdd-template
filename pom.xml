@@ -17,13 +17,15 @@
         <allure.maven>2.11.2</allure.maven>
         <jdi.version>1.4.5</jdi.version>
         <remote.url/>
+        <!-- - -add-opens java.base/java.lang=ALL-UNNAMED needed for java 16+-->
+        <aspectj.args></aspectj.args>
     </properties>
 
     <profiles>
         <profile>
             <id>ci</id>
             <properties>
-                <remote.url>http://localhost:4444/wd/hub</remote.url>
+<!--                <remote.url>http://localhost:4444/wd/hub</remote.url>-->
             </properties>
         </profile>
     </profiles>
@@ -93,6 +95,7 @@
                 <configuration>
                     <testFailureIgnore>false</testFailureIgnore>
                     <argLine>
+                        ${aspectj.args}
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                         -Dcucumber.options="--plugin io.qameta.allure.cucumberjvm.AllureCucumberJvm"
                     </argLine>
