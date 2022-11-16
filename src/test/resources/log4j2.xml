@@ -59,7 +59,7 @@
 
   <Loggers>
     <!-- Every configuration must have a root logger. If one is not configured the default root LoggerConfig is ERROR with Console appender attached. -->
-    <Root level="DEBUG">
+    <Root level="INFO">
       <!--<AppenderRef ref="SOUT"/>-->
       <!--<AppenderRef ref="SERR"/>-->
       <AppenderRef ref="fileAppender"/>
@@ -68,7 +68,7 @@
     </Root>
 
     <!-- additivity means, that parent-logger (in every case the root-logger) will also get the chance to log this stuff -->
-    <Logger name="JDI" additivity="TRUE" level="DEBUG">
+    <Logger name="JDI" additivity="TRUE" level="INFO">
       <AppenderRef ref="fileAppender"/>
       <AppenderRef ref="htmlFileLogger"/>
     </Logger>
