@@ -6,8 +6,8 @@ import com.epam.jdi.light.elements.composite.WebPage;
 import cucumberTests.data.User;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
-import org.junit.AfterClass;
-import org.junit.BeforeClass;
+import org.junit.After;
+import org.junit.Before;
 import org.junit.runner.RunWith;
 
 import static com.epam.jdi.light.elements.init.UIFactory.*;
@@ -19,13 +19,13 @@ import static com.epam.jdi.light.elements.init.UIFactory.*;
 //    , tags = {"@names"}
 )
 public class TestRunner {
-    @BeforeClass
+    @Before
     public static void setUp() {
         WebPage.openUrl("https://jdi-testing.github.io/jdi-light/");
         $("img#user-icon").click();
         new Form<User>().submit(new User().set(u -> { u.name = "Roman"; u.password = "Jdi1234"; }));
     }
-    @AfterClass
+    @After
     public static void shutDown() {
         WebDriverFactory.quit();
     }
